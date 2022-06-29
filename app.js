@@ -1,1 +1,1 @@
-console.log('hello world4234##&*798789')
+console.log('hello world' + '4234##&*798789')
