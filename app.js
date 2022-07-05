@@ -21,7 +21,18 @@ let fullName = 'Seth Dimmer'/*string*/
 let planet = 'Earth'
 let temperature = 20/*number */
 let isRaining = true/*boolean*/ 
-// stopped at 28:30//
+"const isRaining = true"
+"const temperture = 30"
+
+/*VARIABLE QUESTIONAIRE AT INTERVAL 31:00*/
+
+/*
+* Converting Tempertures
+*
+* Celsius-to-Fahrenheit formula:
+*
+*
+*
 
 
 
