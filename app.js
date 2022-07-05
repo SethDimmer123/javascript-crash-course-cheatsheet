@@ -16,6 +16,7 @@
 /*NULL AND UNDEFINED DATA TYPE STARTS AT 21:10*/
 
 /*VARIABLES STARTS AT 24:37*/
+/*Variable names need to be descriptive DO NOT USE X OR Y*/
 let 
 
 
