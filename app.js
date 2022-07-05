@@ -21,6 +21,7 @@ let fullName = 'Seth Dimmer'/*string*/
 let planet = 'Earth'
 let temperature = 20/*number */
 let isRaining = true/*boolean*/ 
+// stopped at 28:30//
 
 
 
