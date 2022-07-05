@@ -17,7 +17,10 @@
 
 /*VARIABLES STARTS AT 24:37*/
 /*Variable names need to be descriptive DO NOT USE X OR Y*/
-let fullName = 'Seth Dimmer'
+let fullName = 'Seth Dimmer'/*string*/
+let planet = 'Earth'
+let temperature = 20/*number */
+let isRaining = true/*boolean*/ 
 
 
 
