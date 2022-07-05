@@ -17,7 +17,7 @@
 
 /*VARIABLES STARTS AT 24:37*/
 /*Variable names need to be descriptive DO NOT USE X OR Y*/
-let 
+let name = 'Seth Dimmer'
 
 
 
