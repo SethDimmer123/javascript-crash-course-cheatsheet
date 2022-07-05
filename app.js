@@ -5,8 +5,8 @@
 /*The length of an empty string is 0 example:''*/
 /*15:05*/   /*let str = 'David'
             console.log(str[0])/*This is the same thing*/ 
-let str = 'David91'
-console.log(str[str.length - 1])
+// let str = 'David91'
+// console.log(str[str.length - 1])
 
 
 
