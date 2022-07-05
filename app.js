@@ -30,16 +30,17 @@ let isRaining = true/*boolean*/
 * Converting Tempertures
 *
 * Celsius-to-Fahrenheit formula:
-*
-*       F = C x 1.8 + 32
-*/  /*fill in blank */
+*   F = C x 1.8 + 32
+*/  
+
+/*fill in blank */
     /* F = 10 x 1.8 + 32 */
 
 let celsius = 10;
-let fahrenheit = /* convert celsius to fahrenheit */
+let fahrenheit = celsius * 1.8 + 32
 
-console.log()
-
+console.log(fahrenheit)
+/*The answer is 50*/
 
 
 
