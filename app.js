@@ -12,7 +12,7 @@
 
 /*BOOLEAN DATA TYPE STARTS AT 20:40*/ 
 
-/**/
+/*NULL AND UNDEFINED*/
 
 
 
