@@ -6,4 +6,4 @@ console.log(str[5- 1])
 
 
 /*number data types*/ 
-typeof 5
+typeof 1
