@@ -2,4 +2,4 @@
 console.log('Hello World'[10]) /*To select the index that i want put either 0,1,2,3,4  */
 console.log('12345'.length)/*The length of an empty string is 0 example:''*/
 let str = 'David91'
-console.log(str[str.length- 1])
+console.log(str[5- 1])
