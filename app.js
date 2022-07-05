@@ -3,7 +3,8 @@
 /*To select the index that i want put either 0,1,2,3,4  */
 // console.log('12345'.length)
 /*The length of an empty string is 0 example:''*/
-/*15:05*/   let str = 'David'
-            console.log(str[0])
+/*15:05*/   /*let str = 'David'
+            console.log(str[0])/*This is the same thing*/ 
+
 
 
