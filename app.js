@@ -4,4 +4,6 @@ console.log('12345'.length)/*The length of an empty string is 0 example:''*/
 let str = 'David9'
 console.log(str[5- 1])
 
+
+/*number data types*/ 
 typeof 5
