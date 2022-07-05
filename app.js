@@ -8,5 +8,7 @@
 // let str = 'David91'
 // console.log(str[str.length - 1])
 
+/*NUMBER DATA TYPE STARTS AT 16:49*/ 
+
 
 
