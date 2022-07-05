@@ -10,7 +10,6 @@
 
 /*NUMBER DATA TYPE STARTS AT 16:49*/ 
 
-// stopped at 18:15
 
 
 
