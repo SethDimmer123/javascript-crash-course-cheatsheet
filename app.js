@@ -36,13 +36,16 @@ let isRaining = true/*boolean*/
 /*fill in blank */
     /* F = 10 x 1.8 + 32 */
 
-let celsius = 10;
-let fahrenheit = celsius * 1.8 + 32
+// let celsius = 10;
+// let fahrenheit = celsius * 1.8 + 32
 
-console.log(fahrenheit)
+// console.log(fahrenheit)
 /*The answer is 50*/
 
 /* "EQUALITY" VARIABLE STARTS AT 32:49 */
+let bool = '1' == 1
+
+console.log(bool)
 
 
 
