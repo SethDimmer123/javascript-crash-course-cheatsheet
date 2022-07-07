@@ -43,13 +43,14 @@ let isRaining = true/*boolean*/
 /*The answer is 50*/
 
 /* "EQUALITY" VARIABLE STARTS AT 32:49 */
-let bool = '1' == 1
+// let bool = '1' == 1
 
 console.log(bool)
 
 // let bool = '1' === 1
 console.log(bool)
 
+let bool = '1' 
 
 
 
