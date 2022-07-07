@@ -62,6 +62,20 @@ let isRaining = true/*boolean*/
 
 // console.log(bool)
 
+/*the opposite of FALSE is TRUE */
+// let bool = !false 
+
+// console.log(bool)
+
+
+/*the opposite of TRUE is FALSE */
+
+let bool = !true 
+
+console.log(bool)
+
+
+
 
 
 
