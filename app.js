@@ -51,9 +51,19 @@ let isRaining = true/*boolean*/
 
 // console.log(bool)
 
-let bool = '1' != 1
+// let bool = '1' != 1 /* FALSE*/
+/*This checks if both of the values are not equal to each other*/
+
+// console.log(bool)
+
+/*The opposite of what is above is going to be TRUE */
+
+let bool = '1' !== 1 
 
 console.log(bool)
+
+
+
 
 
 
