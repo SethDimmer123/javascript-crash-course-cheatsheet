@@ -47,7 +47,8 @@ let bool = '1' == 1
 
 console.log(bool)
 
-let bool
+let bool = '1' === 1
+console.log(bool)
 
 
 
