@@ -58,9 +58,9 @@ let isRaining = true/*boolean*/
 
 /*The opposite of what is above is going to be TRUE */
 
-let bool = '1' !== 1 
+// let bool = '1' !== 1 
 
-console.log(bool)
+// console.log(bool)
 
 
 
