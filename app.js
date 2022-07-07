@@ -45,7 +45,7 @@ let isRaining = true/*boolean*/
 /* "EQUALITY" VARIABLE STARTS AT 32:49 */
 let bool = '1' == 1
 
-console.log(bool)
+console.log(bool
 
 
 
