@@ -34,7 +34,7 @@ let isRaining = true/*boolean*/
 */  
 
 /*fill in blank */
-    /* F = 10 x 1.8 + 32 */
+    /* F = 10 x 1.8 + 32 
 
 // let celsius = 10;
 // let fahrenheit = celsius * 1.8 + 32
