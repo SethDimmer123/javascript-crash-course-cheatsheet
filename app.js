@@ -74,6 +74,8 @@ let bool = !true
 
 console.log(bool)
 
+/*THIS MARKS THE END OF DATA TYPES & VARIABLES SECTION*/
+
 
 
 
