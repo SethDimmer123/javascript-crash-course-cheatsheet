@@ -50,7 +50,7 @@ console.log(bool)
 // let bool = '1' === 1
 console.log(bool)
 
-// review entire equality property again
+// review entire equality property again 33:39
 
 
 
