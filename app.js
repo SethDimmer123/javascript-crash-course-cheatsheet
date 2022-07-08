@@ -78,11 +78,13 @@ let isRaining = true/*boolean*/
 
 /*THIS IS THE START OF CONDITIONALS */
 
-let subscribed = true
+// let subscribed = true
 
-if(subscribed === true) {
-    console.log('show the video')
-}
+// if(subscribed === true) {
+    // console.log('show the video')
+// }
+
+
 
 
 
