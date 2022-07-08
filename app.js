@@ -81,7 +81,7 @@ let isRaining = true/*boolean*/
 // let subscribed = true
 
 // if(subscribed === true) {
-    // console.log('show the video')
+    // console.log('show the video')        /*you can have an "if" statement without an "else statement" but it cannot be the other way around 37:46 */
 // }
 // else{
     // console.log('tell user to log into account')
