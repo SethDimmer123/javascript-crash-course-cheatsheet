@@ -70,13 +70,19 @@ let isRaining = true/*boolean*/
 
 /*the opposite of TRUE is FALSE */
 
-let bool = !true 
+/*let bool = !true*/
 
-console.log(bool)
+/*console.log(bool)*/
 
 /*THIS MARKS THE END OF DATA TYPES & VARIABLES SECTION*/
 
 /*THIS IS THE START OF CONDITIONALS */
+
+let subscribed = true
+
+
+
+
 
 
 
