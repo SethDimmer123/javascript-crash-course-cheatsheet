@@ -84,7 +84,7 @@ let isRaining = true/*boolean*/
     // console.log('show the video')
 // }
 
-
+let subscribed = false
 
 
 
