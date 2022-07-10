@@ -92,6 +92,9 @@ let subscribed = false
  if(subscribed === true) {
      console.log('show the video')       
  }
+ else if(loggedIn === true) {
+    console.log('tell the user to upgrade')
+ }
  else{
      console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
  }
