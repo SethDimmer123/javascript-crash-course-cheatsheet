@@ -101,7 +101,9 @@ let loggedIn = true     /*THIS ALL IS EXPLAINED AT 39:24*/
  }
  /*the "else" variable runs when they are not subscribed */
 
- 
+ /*Another example of this is down below (40:02) */
+
+ let cash = 50
 
 
 
