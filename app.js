@@ -45,9 +45,9 @@ let isRaining = true/*boolean*/
 /* "EQUALITY" VARIABLE STARTS AT 32:49 */
 // let bool = '1' == 1
 
-console.log(bool)
+// console.log(bool)
 
-let bool = '1' === 1
+// let bool = '1' === 1
 
 // console.log(bool)
 
@@ -63,9 +63,9 @@ let bool = '1' === 1
 // console.log(bool)
 
 /*the opposite of FALSE is TRUE */
-// let bool = !false 
+let bool = !false 
 
-// console.log(bool)
+console.log(bool)
 
 
 /*the opposite of TRUE is FALSE */
@@ -87,14 +87,14 @@ let bool = '1' === 1
     // console.log('tell user to log into account')
 // }
 
-let subscribed = false
+// let subscribed = false
 
-if(subscribed === true) {
-    console.log('show the video')       
-}
-else{
-    console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
-}
+// if(subscribed === true) {
+    // console.log('show the video')       
+// }
+// else{
+    // console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
+// }
 
 
 
