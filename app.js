@@ -90,7 +90,7 @@ console.log(bool)
 let subscribed = false
 let loggedIn = true
 
- if(subscribed === true) {        /*If this condition */  
+ if(subscribed === true) {        /*If this condition is "false" then the "else if" runs and it FORGETS THE "else" STATEMENT */  
      console.log('show the video')/*39:24*/  /*If this condition is "true" then it will only run this "if" statement and forgets the "else" and "else if" statements */
  }
  else if(loggedIn === true) {
