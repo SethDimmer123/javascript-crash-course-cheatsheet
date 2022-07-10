@@ -91,7 +91,7 @@ let subscribed = false
 let loggedIn = true
 
  if(subscribed === true) {
-     console.log('show the video')       
+     console.log('show the video')/*39:24*/  /*If this condition is true then it will only */
  }
  else if(loggedIn === true) {
     console.log('tell the user to upgrade their subscription')
@@ -100,6 +100,8 @@ let loggedIn = true
      console.log('tell user to log into account') 
  }
  /*the "else" variable runs when they are not subscribed */
+
+
 
 
 
