@@ -94,7 +94,7 @@ let loggedIn = true     /*THIS ALL IS EXPLAINED AT 39:24*/
      console.log('show the video')/*39:24*/  /*If this condition is "true" then it will only run this "if" statement and forgets the "else" and "else if" statements */
  }
  else if(loggedIn === true) {
-    console.log('tell the user to upgrade their subscription') /* */
+    console.log('tell the user to upgrade their subscription') /*you CANNOT run an "if" and an "else if" IF THE "if" statement runs then the "else if" statement CANNOT run */
  }
  else{
      console.log('tell user to log into account') 
