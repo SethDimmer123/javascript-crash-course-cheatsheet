@@ -90,8 +90,8 @@ console.log(bool)
 let subscribed = false
 let loggedIn = true
 
- if(subscribed === true) {          
-     console.log('show the video')/*39:24*/  /*If this condition is true then it will only run this "if" statement and forgets the "else" and "else if" statements */
+ if(subscribed === true) {        /*If this condition */  
+     console.log('show the video')/*39:24*/  /*If this condition is "true" then it will only run this "if" statement and forgets the "else" and "else if" statements */
  }
  else if(loggedIn === true) {
     console.log('tell the user to upgrade their subscription')
