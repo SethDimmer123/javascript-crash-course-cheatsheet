@@ -87,14 +87,14 @@ console.log(bool)
     // console.log('tell user to log into account')
 // }
 
-// let subscribed = false
+let subscribed = false
 
-// if(subscribed === true) {
-    // console.log('show the video')       
-// }
-// else{
-    // console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
-// }
+ if(subscribed === true) {
+     console.log('show the video')       
+ }
+ else{
+     console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
+ }
 
 
 
