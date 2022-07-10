@@ -54,11 +54,11 @@ let isRaining = true/*boolean*/
 // let bool = '1' != 1 /* FALSE*/
 /*This checks if both of the values are not equal to each other*/
 
-// console.log(bool)
+console.log(bool)
 
-/*The opposite of what is above is going to be TRUE */
+// /*The opposite of what is above is going to be TRUE */
 
-// let bool = '1' !== 1 
+let bool = '1' !== 1 
 
 // console.log(bool)
 
@@ -95,6 +95,8 @@ if(subscribed === true) {
 else{
     console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
 }
+
+
 
 
 
