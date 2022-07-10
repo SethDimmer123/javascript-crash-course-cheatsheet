@@ -90,7 +90,7 @@ let isRaining = true/*boolean*/
 let subscribed = false
 
 if(subscribed === true) {
-    console.log('show the video')       
+    // console.log('show the video')       
 }
 else{
     console.log('tell user to log into account') /*the "else" variable runs when they are not subscribed */
