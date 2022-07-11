@@ -206,8 +206,9 @@ let cash = 50
 let price = 40
 let isStoreOpen = true
 
-if(cash >= price) {
+if(cash >= price && isStoreOpen === true) {
     console.log('we have enough cash to buy the products')
+    console.log('print the receipt')
 }
 
 
