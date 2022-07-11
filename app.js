@@ -158,7 +158,7 @@ let loggedIn = true
 /* 43:38 */
 
 let cash = 100
-let price = 200
+let price = 50
 let difference = cash - price
 /*Easier way to do what you did above */
 if(cash > price) {      
@@ -168,7 +168,7 @@ else if (cash === price) {
     console.log("you paid the exact amount, have a nice day!")
 }
 else {
-    console.log(`not enough money - you still owe ${cash - price} dollars`)
+    console.log(`not enough money - you still owe ${price - cash} dollars`)
 }
 
 
