@@ -191,6 +191,15 @@ else {
 /* > = greater than or equal to */
 /* < = less than or equal to */
 
+/* LOGICAL OPERATORS STARTS AT 45:14 */
+/*examples of logical operators */
+
+// && and
+
+// true && true
+// true && false
+// false && true
+// false && false
 
 
 
