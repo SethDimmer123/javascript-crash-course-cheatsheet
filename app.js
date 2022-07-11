@@ -171,7 +171,10 @@ else {
     console.log(`not enough money - you still owe ${difference * -1} dollars`)
 }
 
-/*look at page 8 part 5*/
+/*look at page 8 part 5 for above 43:43*/ 
+
+
+/*THIS IS THE END OF if,else if, and else */
 
 
 
