@@ -126,8 +126,22 @@ let loggedIn = true
     // console.log("you paid the exact amount, have a nice day!")
 // }
 
+// let cash = 30
+// let price = 40          
+/*41:20 */  /*THIS IS WHAT HAPPENS WHEN WE DO NOT HAVE ENOUGH CASH FOR THE PRODUCTS */
+
+// if(cash > price) {      
+    // console.log("you paid extra - here's your change")
+// }
+// else if (cash === price) {
+    // console.log("you paid the exact amount, have a nice day!")
+// }
+// else {
+    // console.log("not enough money - you still owe x dollars")
+// }
+
 let cash = 30
-let price = 40          /*41:20 */  /*THIS IS WHAT HAPPENS WHEN WE DO NOT HAVE ENOUGH CASH FOR THE PRODUCTS */
+let price = 40
 
 if(cash > price) {      
     console.log("you paid extra - here's your change")
@@ -138,6 +152,8 @@ else if (cash === price) {
 else {
     console.log("not enough money - you still owe x dollars")
 }
+
+
 
 
 
