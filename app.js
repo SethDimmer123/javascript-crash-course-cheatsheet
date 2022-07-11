@@ -146,7 +146,7 @@ let cash = 100
 let price = 40                   
 /*This is how you calculate the extra dollars change*/
 if(cash > price) {    
-    console.log(`you paid extra - here's ${cash - price} change`)
+    console.log(`you paid extra - here's ${cash - price} dollars change`)
 }
 else if (cash === price) {
     console.log("you paid the exact amount, have a nice day!")
@@ -157,7 +157,7 @@ else {
 
 /* 43:38 */
 
-// let cash = 100
+// let cash = 20
 // let price = 50
 // let difference = cash - price
 /*Easier way to do what you did above */
@@ -168,8 +168,10 @@ else {
     // console.log("you paid the exact amount, have a nice day!")
 // }
 // else {
-    // console.log(`not enough money - you still owe ${price - cash} dollars`)
+    // console.log(`not enough money - you still owe ${difference} dollars`)
 // }
+
+
 
 
 
