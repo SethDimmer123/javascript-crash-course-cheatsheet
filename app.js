@@ -206,7 +206,9 @@ let cash = 50
 let price = 40
 let isStoreOpen = true
 
-if(cash >=)
+if(cash >= price) {
+    console.log('we have enough cash to buy the products')
+}
 
 
 
