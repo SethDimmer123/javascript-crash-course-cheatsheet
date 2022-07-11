@@ -115,6 +115,16 @@ let loggedIn = true     /*THIS ALL IS EXPLAINED AT 39:24*/
     // console.log("you paid extra - here's your change")
 //  }
 
+let cash = 40
+let price = 40
+
+if(cash > price) {
+    console.log("you paid extra - here's your change")
+}
+else if (cash === price) {
+    console.log("you paid the exact amount, have a nice day!")
+}
+
 
 
 
