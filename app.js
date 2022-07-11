@@ -135,6 +135,9 @@ if(cash > price) {
 else if (cash === price) {
     console.log("you paid the exact amount, have a nice day!")
 }
+else {
+    console.log("not enough money - you still owe x dollars")
+}
 
 
 
