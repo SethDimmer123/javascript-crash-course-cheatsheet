@@ -127,7 +127,7 @@ let loggedIn = true
 // }
 
 let cash = 30
-let price = 40          /*41:20 */
+let price = 40          /*41:20 */  /*THIS IS WHAT HAPPENS WHEN WE DO NOT HAVE ENOUGH CASH FOR THE PRODUCTS */
 
 if(cash > price) {      
     console.log("you paid extra - here's your change")
