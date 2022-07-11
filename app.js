@@ -177,11 +177,24 @@ else {
 /*THIS IS THE END OF if,else if, and else */
 
 /*COMPARISON OPERTATORS REVIEW STARTS AT 44:38*/
+/*COMPARING TWO values with each other*/
 
 /* == equal values */
 /* === equal values and types */
 /* != not equal */
 /* !== not equal value and equal type */
+
+/*COMPARISON OPERATORS 44:48*/
+
+/* > greater than */
+/* < less than */
+/* > = greater than or equal to */
+/* < = less than or equal to */
+
+
+
+
+
 
 
 
