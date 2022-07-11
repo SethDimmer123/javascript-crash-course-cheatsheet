@@ -171,6 +171,7 @@ else {
     console.log(`not enough money - you still owe ${difference * -1} dollars`)
 }
 
+/*look at page 8 part 5*/
 
 
 
