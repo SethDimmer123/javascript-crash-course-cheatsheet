@@ -188,8 +188,8 @@ let isRaining = true/*boolean*/
 
 /* > greater than */
 /* < less than */
-/* > = greater than or equal to */
-/* < = less than or equal to */
+/* >= greater than or equal to */
+/* <= less than or equal to */
 
 /* LOGICAL OPERATORS STARTS AT 45:14 */
 /*examples of logical operators */
@@ -203,6 +203,10 @@ let isRaining = true/*boolean*/
 
 /*Example of logical operator */
 let cash = 50
+let price = 40
+let isStoreOpen = true
+
+if(cash >=)
 
 
 
