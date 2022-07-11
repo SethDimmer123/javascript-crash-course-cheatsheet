@@ -157,19 +157,19 @@ let isRaining = true/*boolean*/
 
 /* 43:38 */
 
-let cash = 100
-let price = 200
-let difference = cash - price
+// let cash = 100
+// let price = 200
+// let difference = cash - price
 /*Easier way to do what you did line 162 */
-if(cash > price) {      
-    console.log(`you paid extra - here's ${difference} change`)
-}
-else if (cash === price) {
-    console.log("you paid the exact amount, have a nice day!")
-}
-else {
-    console.log(`not enough money - you still owe ${difference * -1} dollars`)
-}
+// if(cash > price) {      
+    // console.log(`you paid extra - here's ${difference} change`)
+// }
+// else if (cash === price) {
+    // console.log("you paid the exact amount, have a nice day!")
+// }
+// else {
+    // console.log(`not enough money - you still owe ${difference * -1} dollars`)
+// }
 
 /*look at page 8 part 5 for above 43:43*/ 
 
@@ -201,7 +201,8 @@ else {
 // false && true
 // false && false
 
-
+/*Example of logical operator */
+let cash = 50
 
 
 
