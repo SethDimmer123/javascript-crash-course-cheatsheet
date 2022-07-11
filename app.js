@@ -108,12 +108,14 @@ let loggedIn = true     /*THIS ALL IS EXPLAINED AT 39:24*/
  
  /*Another example of this is down below (40:02) */
 
- let cash = 50
- let price = 40
+//  let cash = 50
+//  let price = 40
 
- if(cash > price) {
-    console.log("you paid extra - here's your change")
- }
+//  if(cash > price) {
+    // console.log("you paid extra - here's your change")
+//  }
+
+
 
 
 
