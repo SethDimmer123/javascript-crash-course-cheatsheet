@@ -191,6 +191,8 @@ let isRaining = true/*boolean*/
 /* >= greater than or equal to */
 /* <= less than or equal to */
 
+
+
 /* LOGICAL OPERATORS STARTS AT 45:14 */
 /*examples of logical operators */
 
@@ -202,14 +204,26 @@ let isRaining = true/*boolean*/
 // false && false
 
 /*Example of logical operator */
+// let cash = 50
+// let price = 40
+// let isStoreOpen = true
+
+// if(cash >= price && isStoreOpen === true) {
+    // console.log('we have enough cash to buy the products')
+    // console.log('print the receipt')
+// }
+
 let cash = 50
 let price = 40
-let isStoreOpen = true
+let isStoreOpen = false
 
 if(cash >= price && isStoreOpen === true) {
-    console.log('we have enough cash to buy the products')
     console.log('print the receipt')
 }
+
+/*ANOTHER EXAMPLE OF LOGICAL OPERATORS*/
+/* What does the straight line do "||" */
+/*|| checks if the left or right side of the comparison is true */
 
 
 
