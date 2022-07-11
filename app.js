@@ -176,6 +176,12 @@ else {
 
 /*THIS IS THE END OF if,else if, and else */
 
+/*COMPARISON OPERTATORS REVIEW STARTS AT 44:38*/
+
+/* == equal values */
+/* === equal values and types */
+/* != not equal */
+/* !== not equal value and equal type */
 
 
 
