@@ -87,8 +87,8 @@ let isRaining = true/*boolean*/
     // console.log('tell user to log into account')
 // }
 
-let subscribed = false
-let loggedIn = true     
+// let subscribed = false
+// let loggedIn = true     
 /*THIS ALL IS EXPLAINED AT 39:24*/
 
 // console.log('show the video')   /*39:24*/
@@ -142,34 +142,34 @@ let loggedIn = true
 
 
 /*43:21 */
-let cash = 100
-let price = 40                   
+// let cash = 100
+// let price = 40                   
 /*This is how you calculate the extra dollars change*/
-if(cash > price) {    
-    console.log(`you paid extra - here's ${cash - price} dollars change`)
-}
-else if (cash === price) {
-    console.log("you paid the exact amount, have a nice day!")
-}
-else {
-    console.log(`not enough money - you still owe ${price - cash} dollars`)
-}
-
-/* 43:38 */
-
-// let cash = 20
-// let price = 50
-// let difference = cash - price
-/*Easier way to do what you did above */
-// if(cash > price) {      
-    // console.log(`you paid extra - here's ${difference} change`)
+// if(cash > price) {    
+    // console.log(`you paid extra - here's ${cash - price} dollars change`)
 // }
 // else if (cash === price) {
     // console.log("you paid the exact amount, have a nice day!")
 // }
 // else {
-    // console.log(`not enough money - you still owe ${difference} dollars`)
+    // console.log(`not enough money - you still owe ${price - cash} dollars`)
 // }
+
+/* 43:38 */
+
+let cash = 100
+let price = 200
+let difference = cash - price
+/*Easier way to do what you did line 162 */
+if(cash > price) {      
+    console.log(`you paid extra - here's ${difference} change`)
+}
+else if (cash === price) {
+    console.log("you paid the exact amount, have a nice day!")
+}
+else {
+    console.log(`not enough money - you still owe ${difference * -1} dollars`)
+}
 
 
 
