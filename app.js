@@ -58,9 +58,9 @@ let isRaining = true/*boolean*/
 
 // /*The opposite of what is above is going to be TRUE */
 
-let bool = '1' !== 1
+// let bool = '1' !== 1
 
-console.log(bool)
+// console.log(bool)
 
 /*the opposite of FALSE is TRUE */
 // let bool = !false 
@@ -88,7 +88,8 @@ console.log(bool)
 // }
 
 let subscribed = false
-let loggedIn = true     /*THIS ALL IS EXPLAINED AT 39:24*/
+let loggedIn = true     
+/*THIS ALL IS EXPLAINED AT 39:24*/
 
 // console.log('show the video')   /*39:24*/
 // if(subscribed === true) {        
@@ -115,15 +116,27 @@ let loggedIn = true     /*THIS ALL IS EXPLAINED AT 39:24*/
     // console.log("you paid extra - here's your change")
 //  }
 
-let cash = 40
-let price = 40
+// let cash = 40
+// let price = 40
 
-if(cash > price) {
+// if(cash > price) {
+    // console.log("you paid extra - here's your change")
+// }
+// else if (cash === price) {
+    // console.log("you paid the exact amount, have a nice day!")
+// }
+
+let cash = 30
+let price = 40          /*41:20 */
+
+if(cash > price) {      
     console.log("you paid extra - here's your change")
 }
 else if (cash === price) {
     console.log("you paid the exact amount, have a nice day!")
 }
+
+
 
 
 
