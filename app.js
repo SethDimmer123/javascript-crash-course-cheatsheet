@@ -308,6 +308,7 @@ let isRaining = true/*boolean*/
             }
 
             // THIS IS THE START OF TERNARY OPERATORS 52:56
+            // A shortcut for an if else condition
 
 
 
