@@ -299,17 +299,24 @@ let isRaining = true/*boolean*/
                 // console.log(!!val)
             // }
                     /*THIS IS ADVANCED JAVASCRIPT   52:30 */
-            let val = "seth";
-            if(val) {
-                console.log("truthy value", !!val)
-            }
-            else{                   /*true*/
-                console.log(!!val)
-            }
+            // let val = "seth";
+            // if(val) {
+                // console.log("truthy value", !!val)
+            // }
+            // else{                   /*true*/
+                // console.log(!!val)
+            // }
 
             // THIS IS THE START OF TERNARY OPERATORS 52:56
             // A shortcut for an if else condition
+            // let hot = true
 
+            // hot ? console.log('weather is hot outside') : console.log('weather is cold')
+            // if hot was a false statement the it would be 'weather is cold'
+
+            let hot = false
+
+            hot ? console.log('weather is hot outside') : console.log('weather is cold')
 
 
 
