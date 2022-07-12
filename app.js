@@ -319,7 +319,7 @@ let isRaining = true/*boolean*/
             // hot ? console.log('weather is hot outside') : console.log('weather is cold')
             // falsey value means it is going to run the code on the right side of colon
 
-            // ternary exercise 55:43
+            // ternary exercise 55:43(LOOK AT NOTES)
 
             // let cash = 50
             // let price = 40
@@ -327,11 +327,19 @@ let isRaining = true/*boolean*/
 
             // isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
 
-            let cash = 30
+            let cash = 50
             let price = 40
             let isStoreOpen = false
 
             isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
+
+            // THESE ARE 2 DIFFERENT WAYS TO DO THE SOLVE THE SAME PROBLEM
+            // LOOK AT 56:07
+
+            // let str = cash>= price && isStoreOpen ?"give receipt" : "do not give receipt"
+            // console.log(str);
+
+            
 
 
 
