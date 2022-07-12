@@ -230,13 +230,13 @@ let isRaining = true/*boolean*/
 /*false || true--> true */
 /*false || false--> false */
 
-let cash = 50
-let price = 40
-let isStoreOpen = false
+// let cash = 50
+// let price = 40
+// let isStoreOpen = false
 
-if(cash >= price || isStoreOpen === true) {
-    console.log('print the receipt')
-}
+// if(cash >= price || isStoreOpen === true) {
+    // console.log('print the receipt')
+// }
 
 /*FALSY VALUES STARTS AT 50:02 */
 /*A falsy value is considered as 'false' when converted to a boolean */
@@ -270,6 +270,8 @@ if(cash >= price || isStoreOpen === true) {
 
         // []
         // {}
+
+
 
 
 
