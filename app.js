@@ -342,6 +342,21 @@ let isRaining = true/*boolean*/
             /*END OF CONDITIONALS 57:16 */
 
             // START OF LOOPS
+            // What are loops used for?
+
+            // Repeats the same code over and over again.
+
+            // example of why we need to use loops is having and counting to 100 lines of code
+
+            let count = 1;
+
+            console.log(1)
+            console.log(2)
+            console.log(3)
+            console.log(4)
+            console.log(5)
+            // all the way to 100
+            // you use a loop when you are duplicating gthe same line of code
 
 
 
