@@ -274,10 +274,16 @@ let isRaining = true/*boolean*/
         let cash = 50
         let price = 40
         let isStoreOpen = false
-    /*Whatever is inside () just has to be a truthy value in order for the console log to work */
-        if(10) {
+        // for the if statement to run it just needs to be a truthy value
+        if("") {
             console.log('print the receipt')
         }
+        // for the else starment to run the if condition needs to be a falsy value (put "" inside parentheses on the if conditional)
+        else{
+            console.log("falsy value")
+        }
+
+        // if you use a falsy value the if statement will not run
 
 
 
