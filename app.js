@@ -327,11 +327,11 @@ let isRaining = true/*boolean*/
 
             // isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
 
-            let cash = 50
-            let price = 40
-            let isStoreOpen = false
+            // let cash = 50
+            // let price = 40
+            // let isStoreOpen = false
 
-            isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
+            // isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
 
             // THESE ARE 2 DIFFERENT WAYS TO DO THE SOLVE THE SAME PROBLEM
             // LOOK AT 56:07
@@ -342,6 +342,8 @@ let isRaining = true/*boolean*/
             /*END OF CONDITIONALS 57:16 */
 
             // START OF LOOPS
+
+
 
 
 
