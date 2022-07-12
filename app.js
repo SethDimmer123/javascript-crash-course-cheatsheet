@@ -356,7 +356,7 @@ let isRaining = true/*boolean*/
             console.log(4)
             console.log(5)
             // all the way to 100
-            // you use a loop when you are duplicating gthe same line of code
+            // you use a loop when you are duplicating the same line of code
 
 
 
