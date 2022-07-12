@@ -258,6 +258,7 @@ if(cash >= price || isStoreOpen === true) {
 
    /*TRUTHY VALUES START AT 50:30 */
     // A truthy value is considered as 'true' when converted to a boolean
+        // STRINGS THAT ARE NOT EMPTY ARE CONSIDERED TRUTHY
 //    EXAMPLES OF TRUTHY VALUES
 
         // 10
