@@ -248,6 +248,29 @@ if(cash >= price || isStoreOpen === true) {
    false
    /*if you convert these to a boolean it will give you false */
 
+   /*Truthy Values STARTS AT 50:30 */
+   /*10*/
+   /*3.14*/
+
+   /*"Frontend Simplfied" */
+   /*"false" */             /*If the string is not empty it is a truthy value */
+   /*"0" */
+
+   /*TRUTHY VALUES START AT 50:30 */
+    // A truthy value is considered as 'true' when converted to a boolean
+//    EXAMPLES OF TRUTHY VALUES
+
+        // 10
+        // 3.14
+
+        // "Frontend Simplified"
+        // "false"
+        // "0"
+
+        // []
+        // {}
+
+
 
 
 
