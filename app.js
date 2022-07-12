@@ -307,7 +307,9 @@ let isRaining = true/*boolean*/
                 console.log(!!val)
             }
 
-            
+            // THIS IS THE START OF TERNARY OPERATORS 52:56
+
+
 
 
 
