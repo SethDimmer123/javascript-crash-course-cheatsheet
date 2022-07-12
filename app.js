@@ -238,9 +238,15 @@ if(cash >= price || isStoreOpen === true) {
     console.log('print the receipt')
 }
 
-
-
-
+/*FALSY VALUES STARTS AT 50:02 */
+/*A falsy value is considered as 'false' when converted to a boolean */
+/* undefined
+   null
+   NaN -Not a Number
+   0
+   "" - string
+   false
+   /*if you convert these to a boolean it will give you false */
 
 
 
