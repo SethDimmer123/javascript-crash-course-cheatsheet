@@ -282,11 +282,35 @@ let isRaining = true/*boolean*/
         // else{
             // console.log("falsy value")
         // }
-        //if you use a falsy value the if statement will not run
+        //if you use a falsy value the "if" statement will not run
 
         // 51:44 Shows a quick tip to check if a value is truthy or falsy
 
         // !!0 input this into the javascript console on inspect element for example
+            // !!"0" this is true because it is a string
+
+            // We are proving what is Above us 51:50
+
+            // let val = "";
+            // if(val) {
+                // console.log("truthy value", !!val)
+            // }
+            // else{                           /*false */
+                // console.log(!!val)
+            // }
+                    /*THIS IS ADVANCED JAVASCRIPT   52:30 */
+            let val = "seth";
+            if(val) {
+                console.log("truthy value", !!val)
+            }
+            else{                   /*true*/
+                console.log(!!val)
+            }
+
+            
+
+
+
 
 
 
