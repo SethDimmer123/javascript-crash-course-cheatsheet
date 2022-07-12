@@ -271,6 +271,13 @@ let isRaining = true/*boolean*/
         // []
         // {}
 
+        let cash = 50
+        let price = 40
+        let isStoreOpen = false
+    /*Whatever is inside () just has to be a truthy value in order for the console log to work */
+        if(10) {
+            console.log('print the receipt')
+        }
 
 
 
