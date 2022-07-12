@@ -317,8 +317,7 @@ let isRaining = true/*boolean*/
             let hot = false
 
             hot ? console.log('weather is hot outside') : console.log('weather is cold')
-
-
+            // falsey value means it is going to run the code on the right side of colon
 
 
 
