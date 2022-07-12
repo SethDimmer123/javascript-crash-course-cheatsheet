@@ -339,7 +339,11 @@ let isRaining = true/*boolean*/
             // let str = cash>= price && isStoreOpen ?"give receipt" : "do not give receipt"
             // console.log(str);
 
-            
+            /*END OF CONDITIONALS 57:16 */
+
+            // START OF LOOPS
+
+
 
 
 
