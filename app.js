@@ -314,17 +314,24 @@ let isRaining = true/*boolean*/
             // hot ? console.log('weather is hot outside') : console.log('weather is cold')
             // if hot was a false statement the it would be 'weather is cold'
 
-            let hot = false
+            // let hot = false
 
-            hot ? console.log('weather is hot outside') : console.log('weather is cold')
+            // hot ? console.log('weather is hot outside') : console.log('weather is cold')
             // falsey value means it is going to run the code on the right side of colon
 
+            // ternary exercise 55:43
 
+            // let cash = 50
+            // let price = 40
+            // let isStoreOpen = true
 
+            // isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
 
+            let cash = 30
+            let price = 40
+            let isStoreOpen = false
 
-
-
+            isStoreOpen ? console.log('give receipt') : console.log('do not give receipt')
 
 
 
