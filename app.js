@@ -213,17 +213,31 @@ let isRaining = true/*boolean*/
     // console.log('print the receipt')
 // }
 
-let cash = 50
-let price = 40
-let isStoreOpen = false
+// let cash = 50
+// let price = 40
+// let isStoreOpen = false
 
-if(cash >= price && isStoreOpen === true) {
-    console.log('print the receipt')
-}
+// if(cash >= price && isStoreOpen === true) {
+    // console.log('print the receipt')
+// }
 
 /*ANOTHER EXAMPLE OF LOGICAL OPERATORS*/
 /* What does the straight line do "||" */
 /*|| checks if the left or right side of the comparison is true */
+
+/*true || true--> true */
+/*true || false--> true */
+/*false || true--> true */
+/*false || false--> false */
+
+let cash = 50
+let price = 40
+let isStoreOpen = false
+
+if(cash >= price || isStoreOpen === true) {
+    console.log('print the receipt')
+}
+
 
 
 
