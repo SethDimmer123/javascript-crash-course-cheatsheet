@@ -271,19 +271,22 @@ let isRaining = true/*boolean*/
         // []
         // {}
 
-        let cash = 50
-        let price = 40
-        let isStoreOpen = false
+        // let cash = 50
+        // let price = 40
+        // let isStoreOpen = false
         // for the if statement to run it just needs to be a truthy value
-        if("") {
-            console.log('print the receipt')
-        }
+        // if("") {
+            // console.log('print the receipt')
+        // }
         // for the else starment to run the if condition needs to be a falsy value (put "" inside parentheses on the if conditional)
-        else{
-            console.log("falsy value")
-        }
+        // else{
+            // console.log("falsy value")
+        // }
+        //if you use a falsy value the if statement will not run
 
-        // if you use a falsy value the if statement will not run
+        // 51:44 Shows a quick tip to check if a value is truthy or falsy
+
+        // !!0 input this into the javascript console on inspect element for example
 
 
 
