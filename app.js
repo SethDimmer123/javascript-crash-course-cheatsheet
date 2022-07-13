@@ -363,13 +363,13 @@ let isRaining = true/*boolean*/
             // you use a loop when you are duplicating the same line of code
 
             //THERE ARE 3 TYPES OF LOOPS
-            // THE DIFFERNCE BETWEEN THEM IS THEY HAVE DIFFERENT SYNTAX'S
+            // THE DIFFERENCE BETWEEN THEM IS THEY HAVE DIFFERENT SYNTAX'S
             // 58:50
             // for loop
             // while loop
             // do while loop
 
-            
+
 
 
 
