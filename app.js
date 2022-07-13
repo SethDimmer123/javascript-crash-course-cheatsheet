@@ -414,7 +414,7 @@ let isRaining = true/*boolean*/
             // FOR LOOP INSTEAD OF WHILE LOOP
 
             for (let i = 0; i < 3; i = i + 1) {
-                console.log(i);
+                console.log(i + 1);
             }
 
 
