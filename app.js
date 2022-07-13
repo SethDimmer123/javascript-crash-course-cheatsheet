@@ -413,8 +413,9 @@ let isRaining = true/*boolean*/
             // NOW PRINTING OUT #'S 1 TO 100 USING A 
             // FOR LOOP INSTEAD OF WHILE LOOP
             // look at 1:04:29
+            // look at notes as well
 
-            for (let i = 0; i <= 3; i++) {
+            for (let i = 0; i < 100; i++) {
                 console.log(i + 1);
             }
 
