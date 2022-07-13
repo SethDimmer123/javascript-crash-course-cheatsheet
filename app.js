@@ -379,12 +379,16 @@ let isRaining = true/*boolean*/
                 // count = count + 1;
             // }
 
-            let count = 1;
+            // let count = 1;
 
-            while(count <= 3) {
-                console.log('this ran')
-                count = count + 1;
-            }
+            // while(count <= 100) {
+                // console.log('this ran')
+                // count = count + 1;
+            // }
+
+            // WHILE LOOP PROBLEM 1:00:56
+
+            let count = 1;
 
 
 
