@@ -371,8 +371,9 @@ let isRaining = true/*boolean*/
 
             // The "while" is the same syntax as an "if" statement
 
+            // 
             while() {
-                
+
             }
 
 
