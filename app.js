@@ -349,16 +349,16 @@ let isRaining = true/*boolean*/
             // example of why we need to use loops is having and counting to 100 lines of code
 
             // DRY = Don't repeat yourself
-            let count = 1;
-            console.log(count)
-            count = count + 1
-            console.log(count)
-            count = count + 1
-            console.log(count)
-            count = count + 1
-            console.log(count)
-            count = count + 1
-            console.log(count)
+            // let count = 1;
+            // console.log(count)
+            // count = count + 1
+            // console.log(count)
+            // count = count + 1
+            // console.log(count)
+            // count = count + 1
+            // console.log(count)
+            // count = count + 1
+            // console.log(count)
             // all the way to 100
             // you use a loop when you are duplicating the same line of code
 
@@ -371,10 +371,26 @@ let isRaining = true/*boolean*/
 
             // The "while" is the same syntax as an "if" statement
 
-            // 
-            while() {
+            // INSIDE OF THE () AS LONG AS THE CONDITION IS TRUE IT WILL EXECUTE WHATEVER IS INSIDE OF THE "{}"
+            //  IF YOU PUT TRUE INSIDE () IT WILL CRASH BROWSER
+            // let count = 1;
 
+            // while(false) {              
+                // count = count + 1;
+            // }
+
+            let count = 1;
+
+            while(count <= 3) {
+                console.log('this ran')
+                count = count + 1;
             }
+
+
+
+
+
+
 
 
 
