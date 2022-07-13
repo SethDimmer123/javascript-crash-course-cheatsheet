@@ -348,13 +348,11 @@ let isRaining = true/*boolean*/
 
             // example of why we need to use loops is having and counting to 100 lines of code
 
+            // DRY = Don't repeat yourself
             let count = 1;
+            console.log(count)
             count = count + 1;
-            console.log(1)
-            console.log(2)
-            console.log(3)
-            console.log(4)
-            console.log(5)
+            console.log(count);
             // all the way to 100
             // you use a loop when you are duplicating the same line of code
 
