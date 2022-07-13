@@ -371,7 +371,10 @@ let isRaining = true/*boolean*/
 
             // The "while" is the same syntax as an "if" statement
 
-            // INSIDE OF THE () AS LONG AS THE CONDITION IS TRUE IT WILL EXECUTE WHATEVER IS INSIDE OF THE "{}"
+            // INSIDE OF THE () AS LONG AS THE CONDITION 
+            // IS TRUE IT WILL EXECUTE WHATEVER IS INSIDE OF THE "{}"
+            
+            
             //  IF YOU PUT TRUE INSIDE () IT WILL CRASH BROWSER
             // let count = 1;
 
@@ -396,7 +399,9 @@ let isRaining = true/*boolean*/
             // }
 
             // WHILE LOOP SOLUTION 1:01:18
-            // I WANT TO PRINT OUT EVERY SINGLE # FROM 1 TO 100 WITHOUT REPEATING
+            // I WANT TO PRINT OUT EVERY SINGLE # FROM 
+            // 1 TO 100 WITHOUT REPEATING
+            
             // DRY- Don't repeat yourself
             // let count = 1;
 
@@ -405,10 +410,11 @@ let isRaining = true/*boolean*/
                 // count = count + 1;
             // }
 
-            // NOW PRINTING OUT #'S 1 TO 100 USING A FOR LOOP INSTEAD OF WHILE LOOP
+            // NOW PRINTING OUT #'S 1 TO 100 USING A 
+            // FOR LOOP INSTEAD OF WHILE LOOP
             // 1:02:10
 
-            
+
 
 
             
