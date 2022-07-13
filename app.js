@@ -398,6 +398,14 @@ let isRaining = true/*boolean*/
             // WHILE LOOP SOLUTION 1:01:18
             // I WANT TO PRINT OUT EVERY SINGLE # FROM 1 TO 100 WITHOUT REPEATING
             // DRY- Don't repeat yourself
+            // let count = 1;
+
+            // while (count <=100) {
+                // console.log(count)
+                // count = count + 1;
+            // }
+
+            
             
 
 
