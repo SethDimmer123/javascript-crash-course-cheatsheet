@@ -351,10 +351,25 @@ let isRaining = true/*boolean*/
             // DRY = Don't repeat yourself
             let count = 1;
             console.log(count)
-            count = count + 1;
-            console.log(count);
+            count = count + 1
+            console.log(count)
+            count = count + 1
+            console.log(count)
+            count = count + 1
+            console.log(count)
+            count = count + 1
+            console.log(count)
             // all the way to 100
             // you use a loop when you are duplicating the same line of code
+
+            //THERE ARE 3 TYPES OF LOOPS
+            // THE DIFFERNCE BETWEEN THEM IS THEY HAVE DIFFERENT SYNTAX'S
+            // 58:50
+            // for loop
+            // while loop
+            // do while loop
+
+            
 
 
 
