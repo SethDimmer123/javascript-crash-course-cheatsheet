@@ -396,8 +396,10 @@ let isRaining = true/*boolean*/
             }
 
             // WHILE LOOP SOLUTION 1:01:18
-            // I WANT TO PRINT OUT EVERY SINGLE # 1 TO 100 WITHOUT REPEATING
+            // I WANT TO PRINT OUT EVERY SINGLE # FROM 1 TO 100 WITHOUT REPEATING
+
             
+
 
 
 
