@@ -405,11 +405,13 @@ let isRaining = true/*boolean*/
                 // count = count + 1;
             // }
 
+            // NOW PRINTING OUT #'S 1 TO 100 USING A FOR LOOP INSTEAD OF WHILE LOOP
+            // 1:02:10
+
             
+
+
             
-
-
-
 
 
 
