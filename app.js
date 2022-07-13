@@ -415,9 +415,11 @@ let isRaining = true/*boolean*/
             // look at 1:04:29
             // look at notes as well
 
-            // for (let i = 0; i < 100; i++) {
-                // console.log(i + 1);
-            // }
+            for (let i = 0; i < 100; ++i) {
+                console.log(i + 1);
+            }
+
+
 
 
 
