@@ -341,7 +341,7 @@ let isRaining = true/*boolean*/
 
             /*END OF CONDITIONALS 57:16 */
 
-            // START OF LOOPS
+            // START OF LOOPS 57:30
             // What are loops used for?
 
             // Repeats the same code over and over again.
@@ -357,8 +357,7 @@ let isRaining = true/*boolean*/
             console.log(5)
             // all the way to 100
             // you use a loop when you are duplicating the same line of code
-
-
+            
 
 
 
