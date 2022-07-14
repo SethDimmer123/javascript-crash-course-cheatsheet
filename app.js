@@ -419,8 +419,21 @@ let isRaining = true/*boolean*/
                 // console.log(i + 1);
             // }
 
-            
+            // PRACTICE QUESTION "for-loop" 1:05:24
 
+            /**Write a for-loop that loops through 1 to 20
+             * If the number is divisible by 3, print "Frontend"
+             * If the number is divisible by 5, print "Simplified"
+             * If the number is divisible by 3 and 5, print "Frontend Simplified"
+             * If the number is *not* divisible by either 3 or 5, print the number
+             * 
+             *  @example
+             * 1 -> 1
+             * 2 -> 2
+             * 3 -> "Frontend"
+             * 4 -> 4
+             * 5 -> "Simplified"
+             */
 
 
 
