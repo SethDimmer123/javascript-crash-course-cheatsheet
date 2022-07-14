@@ -436,7 +436,7 @@ let isRaining = true/*boolean*/
              * ...
              * 15 -> "Frontend Simplified" --> 15 is divisible by both 3 and 5 which means you want to print both "Frontend" and "Simplfied" into the console.
              * ... -->You USE THE DIVISIBLE BY 3 AND 5 RULE ALL THE WAY UNTIL YOU GET TO 20
-             * 20 -> "Simplified"
+             * 20 -> "Simplified" --> you print 20 to the console becuase it is only divisible by 5
              */
 
 
