@@ -431,7 +431,7 @@ let isRaining = true/*boolean*/
              * 1 -> 1 ---> 1 prints 1 because it is NOT divisible by 3 or 5
              * 2 -> 2 ---> 2 prints 2 because it is NOT divisible by 3 or 5
              * 3 -> "Frontend" ---> 3 prints "Frontend"
-             * 4 -> 4 ---> 4 prints 4 because it is NOT 
+             * 4 -> 4 ---> 4 prints 4 because it is NOT divisble by 3 or 5
              * 5 -> "Simplified"
              * ...
              * 15 -> "Frontend Simplified"
