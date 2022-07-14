@@ -433,6 +433,10 @@ let isRaining = true/*boolean*/
              * 3 -> "Frontend"
              * 4 -> 4
              * 5 -> "Simplified"
+             * ...
+             * 15 -> "Frontend Simplified"
+             * ...
+             * 20 -> "Simplified"
              */
 
 
