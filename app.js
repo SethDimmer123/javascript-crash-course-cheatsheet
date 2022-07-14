@@ -428,7 +428,7 @@ let isRaining = true/*boolean*/
              * If the number is *not* divisible by either 3 or 5, print the number
              * 
              *  @example
-             * 1 -> 1 ---> 1 prints 1 because
+             * 1 -> 1 ---> 1 prints 1 because it is
              * 2 -> 2
              * 3 -> "Frontend"
              * 4 -> 4
