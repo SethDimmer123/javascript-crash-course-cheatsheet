@@ -438,6 +438,7 @@ let isRaining = true/*boolean*/
              * ... -->You USE THE DIVISIBLE BY 3 AND 5 RULE ALL THE WAY UNTIL YOU GET TO 20
              * 20 -> "Simplified" --> you print 20 to the console becuase it is only divisible by 5
              */
+            // Check page 2 of for-loop problem in Notes
             for(let i = 1; i <= 20; ++i) {
                 console.log(i)
             }
