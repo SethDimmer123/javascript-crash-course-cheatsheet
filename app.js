@@ -450,6 +450,9 @@ let isRaining = true/*boolean*/
                  else if(i % 5 === 0) {
                     console.log(`${i} -> Simplified`)
                 }
+                else{
+                    console.log(`${i} -> ${i}`)
+                }
             }
 
 
