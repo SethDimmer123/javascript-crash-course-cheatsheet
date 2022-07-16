@@ -450,7 +450,6 @@ let isRaining = true/*boolean*/
                 if(i % 3 === 0 && i % 5 === 0) {
                     console.log(`${i} -> Frontend Simplified`)
                 }
-            
             }
 
 
