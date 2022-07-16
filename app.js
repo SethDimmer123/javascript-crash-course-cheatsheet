@@ -440,15 +440,13 @@ let isRaining = true/*boolean*/
              */
             // Check page 2 of for-loop problem in Notes
             for(let i = 1; i <= 20; ++i) {
+                
                 // console.log(i)
                 if (i % 3 === 0){
                     console.log(`${i} -> Frontend`)
                 }
                 if(i % 5 === 0) {
                     console.log(`${i} -> Simplified`)
-                }
-                if(i % 3 === 0 && i % 5 === 0) {
-                    console.log(`${i} -> Frontend Simplified`)
                 }
             }
 
