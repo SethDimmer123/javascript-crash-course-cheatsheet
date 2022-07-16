@@ -444,7 +444,7 @@ let isRaining = true/*boolean*/
                     console.log(`${i} -> Frontend Simplified`)
                 }
                 // console.log(i)
-                 if (i % 3 === 0){
+                 else if (i % 3 === 0){
                     console.log(`${i} -> Frontend`)
                 }
                 if(i % 5 === 0) {
