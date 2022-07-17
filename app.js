@@ -486,9 +486,11 @@ let isRaining = true/*boolean*/
             console.log("Welcome to FES, David")
             console.log("Welcome to FES, Zen")
             console.log("Welcome to FES, Mitri")
-            // Instead of doing what is above do this instead
+            // Instead of doing what is above do this instead ON LINE 491
 
-            
+            function welcomePersonToFES() {
+
+            }
 
 
 
