@@ -479,6 +479,8 @@ let isRaining = true/*boolean*/
                 console.log(str [i])
              }
 
+            // DO THIS PROBLEM AGAIN TILL YOU CAN DO IT ON YOUR OWN
+
 
 
 
