@@ -484,8 +484,8 @@ let isRaining = true/*boolean*/
             // FUNCTIONS STARTS AT 1:18:14
             // DRY - Don't Repeat Yourself
             console.log("Welcome to FES, David")
-            console.log("Welcome to FES, David")
-            console.log("Welcome to FES, David")
+            console.log("Welcome to FES, Zen")
+            console.log("Welcome to FES, Mitri")
 
 
 
