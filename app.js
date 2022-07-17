@@ -464,6 +464,8 @@ let isRaining = true/*boolean*/
 
             /**Print out every character from the string:
              * "Frontend Simplified"
+             * 
+             * @example
               */
 
 
