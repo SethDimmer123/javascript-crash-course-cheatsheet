@@ -466,6 +466,12 @@ let isRaining = true/*boolean*/
              * "Frontend Simplified"
              * 
              * @example
+             * 'F'
+             * 'r'
+             * 'o'
+             * ...
+             * 'e'
+             * 'd'
               */
 
 
