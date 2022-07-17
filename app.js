@@ -475,6 +475,8 @@ let isRaining = true/*boolean*/
               */
              const str = "Frontend Simplified"
 
+             
+
 
 
 
