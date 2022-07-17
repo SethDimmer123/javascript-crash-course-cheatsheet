@@ -439,28 +439,30 @@ let isRaining = true/*boolean*/
              * 20 -> "Simplified" --> you print 20 to the console becuase it is only divisible by 5
              */
             // Check page 2 of for-loop problem in Notes
-            for(let i = 1; i <= 20; ++i) {
-                if(i % 3 === 0 && i % 5 === 0) {
-                    console.log(`${i} -> Frontend Simplified`)
-                }
+            // for(let i = 1; i <= 20; ++i) {
+                // if(i % 3 === 0 && i % 5 === 0) {
+                    // console.log(`${i} -> Frontend Simplified`)
+                // }
                 // console.log(i)
-                 else if (i % 3 === 0){
-                    console.log(`${i} -> Frontend`)
-                }
-                 else if(i % 5 === 0) {
-                    console.log(`${i} -> Simplified`)
-                }
-                else{
-                    console.log(`${i} -> ${i}`)
-                }
-            }
+                //  else if (i % 3 === 0){
+                    // console.log(`${i} -> Frontend`)
+                // }
+                //  else if(i % 5 === 0) {
+                    // console.log(`${i} -> Simplified`)
+                // }
+                // else{
+                    // console.log(`${i} -> ${i}`)
+                // }
+            // }
 
             /**
              * ATTEMPT THIS QUESTION ABOVE MULTIPLE TIMES BY YOURSELF AFTER YOU ARE FINISHED WITH THE CRASH COURSE
              * INTERVAL OF THIS STARTS AT 1:05:29
             */
 
-            // 1:13:58 stopped at
+            // ANOTHER EXAMPLE OF A  FOR LOOP PROBLEM STARTS AT 1:13:58
+
+            
 
 
 
