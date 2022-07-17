@@ -481,6 +481,12 @@ let isRaining = true/*boolean*/
 
             // DO THIS PROBLEM AGAIN TILL YOU CAN DO IT ON YOUR OWN
 
+            // FUNCTIONS STARTS AT 1:18:14
+            // DRY - Don't Repeat Yourself
+            console.log("Welcome to FES, David")
+            console.log("Welcome to FES, David")
+            console.log("Welcome to FES, David")
+
 
 
 
