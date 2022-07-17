@@ -473,11 +473,11 @@ let isRaining = true/*boolean*/
              * 'e'
              * 'd'
               */
-             const str = "Frontend Simplified"
+            //  const str = "Frontend Simplified"
 
-             for(let i = 0; i < str.length; ++i) {
-                console.log(str [i])
-             }
+            //  for(let i = 0; i < str.length; ++i) {
+                // console.log(str [i])
+            //  }
 
             // DO THIS PROBLEM AGAIN TILL YOU CAN DO IT ON YOUR OWN
 
