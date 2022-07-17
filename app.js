@@ -462,7 +462,9 @@ let isRaining = true/*boolean*/
 
             // ANOTHER EXAMPLE OF A  FOR LOOP PROBLEM STARTS AT 1:13:58
 
-            /**Print out every character  */
+            /**Print out every character from the string:
+             * 
+              */
 
 
 
