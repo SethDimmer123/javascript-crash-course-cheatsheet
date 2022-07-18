@@ -483,14 +483,15 @@ let isRaining = true/*boolean*/
 
             // FUNCTIONS STARTS AT 1:18:14
             // DRY - Don't Repeat Yourself
-            console.log("Welcome to FES, David")
-            console.log("Welcome to FES, Zen")
-            console.log("Welcome to FES, Mitri")
+            // console.log("Welcome to FES, David")
+            // console.log("Welcome to FES, Zen")
+            // console.log("Welcome to FES, Mitri")
             // Instead of doing what is above do this instead ON LINE 491
 
             function welcomePersonToFES() {
-
+                console.log("Welcome to FES, David")
             }
+            //  stopped at 1:20:14
 
 
 
