@@ -491,7 +491,7 @@ let isRaining = true/*boolean*/
             function welcomePersonToFES() {
                 console.log("Welcome to FES, David")
             }
-            //  stopped at 1:20:14
+            
 
 
 
