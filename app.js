@@ -495,7 +495,7 @@ let isRaining = true/*boolean*/
             }
 
             // Call the function
-            welcomePersonToFES();
+            welcomePersonToFES('Seth');
 
 
 
