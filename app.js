@@ -509,7 +509,14 @@ let isRaining = true/*boolean*/
             //  welcomePersonToFES('Seth' , 'Dimmer') 
             //  welcomePersonToFES('John' , 'Doe') 
 
+            // Called the return keyword 1:24:26
             
+            function fn() {
+                return 'my return'
+                console.log('my function')
+            }
+
+            fn();
              
 
 
