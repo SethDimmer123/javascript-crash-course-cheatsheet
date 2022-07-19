@@ -501,13 +501,15 @@ let isRaining = true/*boolean*/
             // welcomePersonToFES('Mitri');
 
             // FUNCTION DEFINITION AGAIN 1:22:42
-             function welcomePersonToFES(firstName,lastName) {
-             console.log(`Welcome To FES, ${firstName} ${lastName}`)
-             }
+            //  function welcomePersonToFES(firstName,lastName) {
+            //  console.log(`Welcome To FES, ${firstName} ${lastName}`)
+            //  }
 
              // Call the function
-             welcomePersonToFES('Seth' , 'Dimmer') 
-             welcomePersonToFES('John' , 'Doe') 
+            //  welcomePersonToFES('Seth' , 'Dimmer') 
+            //  welcomePersonToFES('John' , 'Doe') 
+
+            
              
 
 
