@@ -489,20 +489,22 @@ let isRaining = true/*boolean*/
             // Instead of doing what is above do this instead ON LINE 491
 
             // Function Definition 1:20:50
-            function welcomePersonToFES(name) {
-                console.log(`Welcome to Frontend Simplified, ${name}`)
+            // function welcomePersonToFES(name) {
+                // console.log(`Welcome to Frontend Simplified, ${name}`)
                 // console.log("Welcome to FES, David")
                 // console.log(name)
-            }
+            // }
 
             // Call the function
-            welcomePersonToFES('Seth');
-            welcomePersonToFES('Zen');
-            welcomePersonToFES('Mitri');
+            // welcomePersonToFES('Seth');
+            // welcomePersonToFES('Zen');
+            // welcomePersonToFES('Mitri');
 
             // FUNCTION DEFINITION AGAIN 1:22:42
 
             
+
+
 
 
 
