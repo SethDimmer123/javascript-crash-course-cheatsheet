@@ -502,7 +502,7 @@ let isRaining = true/*boolean*/
 
             // FUNCTION DEFINITION AGAIN 1:22:42
              function welcomePersonToFES(firstName,lastName) {
-             console.log(`Welcome To FES, ${firstName $}`)
+             console.log(`Welcome To FES, ${firstName} ${lastName}`)
              }
 
              // Call the funtion
