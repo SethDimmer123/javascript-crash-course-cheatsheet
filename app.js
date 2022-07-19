@@ -493,6 +493,7 @@ let isRaining = true/*boolean*/
                 console.log("Welcome to FES, David")
             }
 
+            // Call the function
             welcomePersonToFES();
 
 
