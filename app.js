@@ -507,6 +507,7 @@ let isRaining = true/*boolean*/
 
              // Call the funtion
              welcomePersonToFES('Seth' , 'Dimmer') 
+             welcomePersonToFES('John' , 'Doe') 
              
 
 
