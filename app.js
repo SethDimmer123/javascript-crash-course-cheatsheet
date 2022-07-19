@@ -500,6 +500,10 @@ let isRaining = true/*boolean*/
             welcomePersonToFES('Zen');
             welcomePersonToFES('Mitri');
 
+            // FUNCTION DEFINITION AGAIN 1:22:42
+
+            
+
 
 
 
