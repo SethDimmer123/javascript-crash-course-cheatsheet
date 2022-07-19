@@ -489,7 +489,7 @@ let isRaining = true/*boolean*/
             // Instead of doing what is above do this instead ON LINE 491
 
             // Function Definition 1:20:50
-            function welcomePersonToFES() {
+            function welcomePersonToFES(name) {
                 // console.log("Welcome to FES, David")
                 console.log(name)
             }
