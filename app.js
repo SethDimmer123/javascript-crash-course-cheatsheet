@@ -491,7 +491,9 @@ let isRaining = true/*boolean*/
             function welcomePersonToFES() {
                 console.log("Welcome to FES, David")
             }
-            
+
+            welcomePersonToFES();
+
 
 
 
