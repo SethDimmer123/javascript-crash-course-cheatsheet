@@ -538,7 +538,7 @@ let isRaining = true/*boolean*/
             // Another Example but this time we are making it dynamic
             // Starts at 1:26:47
 
-            function sumOfTwoNumbers() {
+            function sumOfTwoNumbers(num1, num2) {
                 return 5 + 10
             }
 
