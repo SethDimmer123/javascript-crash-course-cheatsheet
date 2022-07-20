@@ -563,6 +563,16 @@ let isRaining = true/*boolean*/
 
             console.log(sumOfTwoNumbers (10, 10));
 
+            // If i want to divide or multiply instead of add or subtract i can do this instead.
+
+            function sumOfTwoNumbers(num1, num2) {
+                return num1 * num2
+            }
+
+            console.log(sumOfTwoNumbers(10, 20))
+
+
+
 
 
 
