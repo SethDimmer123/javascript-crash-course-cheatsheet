@@ -555,7 +555,7 @@ let isRaining = true/*boolean*/
 
             // console.log(sumOfTwoNumbers (10,10));
 
-            // It is running undefined because there is no "return".
+            // It is running undefined because there is no "return" statement.
 
             function sumOfTwoNumbers(num1, num2) {
                 return num1 + num2
