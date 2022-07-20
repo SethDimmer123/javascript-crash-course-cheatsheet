@@ -525,6 +525,12 @@ let isRaining = true/*boolean*/
 
             // console.log(fn());
 
+            function sumOfTwoNumbers(){
+                return 5 + 10
+            }
+
+            console.log(sumOfTwoNumbers())
+
 
              
 
