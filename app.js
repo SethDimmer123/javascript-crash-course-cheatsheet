@@ -546,6 +546,8 @@ let isRaining = true/*boolean*/
             console.log(sumOfTwoNumbers(10, 10)); // a for arguement
             // calling the function
 
+            
+
 
 
 
