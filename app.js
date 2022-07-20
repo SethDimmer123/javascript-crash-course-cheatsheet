@@ -563,7 +563,9 @@ let isRaining = true/*boolean*/
 
             console.log(sumOfTwoNumbers (10, 10));
 
-            // If i want to divide or multiply (/) (*) instead of add or subtract i can also do that.
+            // If i want to divide or multiply (/) (*') instead of add or subtract i can also do that.
+
+            
 
 
 
