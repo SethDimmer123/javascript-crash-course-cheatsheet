@@ -529,11 +529,13 @@ let isRaining = true/*boolean*/
 
             // Another Example
 
-            function sumOfTwoNumbers(){
-                return 5 + 10
-            }
+            // function sumOfTwoNumbers(){
+                // return 5 + 10
+            // }
 
-            console.log(sumOfTwoNumbers())
+            // console.log(sumOfTwoNumbers())
+
+            
 
 
 
