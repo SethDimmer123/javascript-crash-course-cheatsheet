@@ -518,6 +518,8 @@ let isRaining = true/*boolean*/
 
             //  console.log(fn());
 
+            // Another example
+
             // function fn() {
                 // return 5
                 // console.log('my function')
@@ -525,11 +527,15 @@ let isRaining = true/*boolean*/
 
             // console.log(fn());
 
+            // Another Example
+
             function sumOfTwoNumbers(){
                 return 5 + 10
             }
 
             console.log(sumOfTwoNumbers())
+
+
 
 
              
