@@ -543,10 +543,11 @@ let isRaining = true/*boolean*/
                 return 5 + 10
             }
 
-            console.log(sumOfTwoNumbers(10, 10)); // a for arguement
+            // a for arguement
+            console.log(sumOfTwoNumbers(10, 10)); 
             // calling the function
 
-            
+
 
 
 
