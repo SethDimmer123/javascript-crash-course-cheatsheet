@@ -539,13 +539,23 @@ let isRaining = true/*boolean*/
             // Starts at 1:26:47
 
             //p for parameter defining the function
-            function sumOfTwoNumbers(num1, num2) { 
-                return 5 + 10
-            }
+            // function sumOfTwoNumbers(num1, num2) { 
+                // return 5 + 10
+            // }
 
             // a for arguement
-            console.log(sumOfTwoNumbers(10, 10)); 
+            // console.log(sumOfTwoNumbers(10, 10)); 
             // calling the function
+
+            // Next Step of example above starts at 1:27:53
+
+            function sumOfTwoNumbers(num1, num2) {
+                num1 + num2
+            }
+
+            console.log(sumOfTwoNumbers (10,10));
+
+
 
 
 
