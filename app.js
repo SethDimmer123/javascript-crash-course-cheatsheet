@@ -542,7 +542,7 @@ let isRaining = true/*boolean*/
                 return 5 + 10
             }
 
-            console.log(sumOfTwoNumbers(10, 10))
+            console.log(sumOfTwoNumbers(10, 10)); //
 
 
 
