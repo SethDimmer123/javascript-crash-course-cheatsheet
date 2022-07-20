@@ -511,14 +511,19 @@ let isRaining = true/*boolean*/
 
             // Called the return keyword 1:24:26
             
+            // function fn() {
+                // return 'my return'
+                // console.log('my function')
+            // }
+
+            //  console.log(fn());
+
             function fn() {
-                return 'my return'
+                return 5
                 console.log('my function')
             }
 
-            fn();
-
-
+            console.log(fn());
 
              
 
