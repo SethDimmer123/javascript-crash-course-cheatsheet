@@ -549,14 +549,19 @@ let isRaining = true/*boolean*/
 
             // Next Step of example above starts at 1:27:53
 
-            function sumOfTwoNumbers(num1, num2) {
-                num1 + num2
-            }
+            // function sumOfTwoNumbers(num1, num2) {
+                // num1 + num2
+            // }
 
-            console.log(sumOfTwoNumbers (10,10));
+            // console.log(sumOfTwoNumbers (10,10));
 
             // It is running undefined because there is no "return".
 
+            function sumOfTwoNumbers(num1, num2) {
+                return num1 + num2
+            }
+
+            console.log(sumOfTwoNumbers (10, 10));
 
 
 
