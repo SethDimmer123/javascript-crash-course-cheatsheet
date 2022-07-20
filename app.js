@@ -535,6 +535,9 @@ let isRaining = true/*boolean*/
 
             // console.log(sumOfTwoNumbers())
 
+            // Another Example but this time we are making it dynamic
+            // Starts at 1:26:47
+
             
 
 
