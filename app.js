@@ -647,6 +647,14 @@ let isRaining = true/*boolean*/
 
             console.log(arr[arr.length - 1])
 
+            // Now that we know how to access any single element of the array
+            // let's see how we can actually add elements onto the array
+            // So in Javascript how we add elements to the array is by using the .push method
+
+            arr.push
+
+
+
 
 
 
