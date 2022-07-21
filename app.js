@@ -661,6 +661,7 @@ let isRaining = true/*boolean*/
             // arr.push(200)
 
             arr.filter()
+            arr.filter(() => {})
 
             // console.log(arr);
 
