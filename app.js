@@ -640,12 +640,12 @@ let isRaining = true/*boolean*/
             let arr = [20,30,40,50,100]
 
             // First element of array:
-            console.log(arr[0])
+            // console.log(arr[0])
 
             // Last element of array:
             // console.log(arr[4])
 
-            console.log(arr[arr.length - 1])
+            // console.log(arr[arr.length - 1])
 
             // Now that we know how to access any single element of the array
             // let's see how we can actually add elements onto the array
@@ -656,9 +656,11 @@ let isRaining = true/*boolean*/
             // You need to know this one if you are working with arrays 
             // using this function is almost a guarantee
 
-            arr.push(200)
+            // Add element onto end of array: which in this case is "push"
+            
+            // arr.push(200)
 
-            console.log(arr);
+            // console.log(arr);
 
 
 
