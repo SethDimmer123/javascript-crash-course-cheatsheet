@@ -631,6 +631,8 @@ let isRaining = true/*boolean*/
 
             // THIS IS WHY ARRAYS EXIST
 
+            
+
 
 
 
