@@ -662,6 +662,8 @@ let isRaining = true/*boolean*/
 
             // console.log(arr);
 
+            
+
 
 
 
