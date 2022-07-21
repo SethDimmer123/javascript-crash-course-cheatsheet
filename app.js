@@ -624,7 +624,14 @@ let isRaining = true/*boolean*/
             let item5 = 100
 
             // NOW IT DOESNT MAKE MUCH SENSE TO HAVE A SEPERATE VARIABLE
-            // FOR EACH OF THESE ITEMS IN OUR SHOPPING CART
+            // FOR EACH OF THESE ITEMS IN OUR SHOPPING CART.
+
+            // WHAT HAPPENS IF WE ARE BUYING 10 ITEMS OR 20 ITEMS
+            // DOES THAT MEAN WE NEED 20 VARIABLES
+
+            // THIS IS WHY VARIABLES EXIST
+
+            
 
 
 
