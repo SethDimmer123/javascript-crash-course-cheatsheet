@@ -557,15 +557,34 @@ let isRaining = true/*boolean*/
 
             // It is running undefined because there is no "return" statement.
 
-            function sumOfTwoNumbers(num1, num2) {
-                return num1 + num2
-            }
+            // function sumOfTwoNumbers(num1, num2) {
+                // return num1 + num2
+            // }
 
-            console.log(sumOfTwoNumbers (10, 10));
+            // console.log(sumOfTwoNumbers (10, 10));
 
             // If i want to divide or multiply (/) (*') instead of add or subtract i can also do that.
 
+
+            // FUNCTIONS QUESTIONAIRE 1:29:00
+
+            /** Create a function that converts Celsius to Fahrenheit
+             * 
+             * Celsius to Fahrenheit formula:
+             * F= C x 1.8 + 32
+             * 
+             * 
+             * @example
+             * convertCelsiusToFahrenheit(0) -> 32
+             * convertCelsiusToFahrenheit(10) -> 50
+             * convertCelsiusToFahrenheit(30) -> 86
+             */
+
             
+
+
+
+
 
 
 
