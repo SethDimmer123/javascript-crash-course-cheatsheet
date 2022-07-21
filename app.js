@@ -629,9 +629,9 @@ let isRaining = true/*boolean*/
             // WHAT HAPPENS IF WE ARE BUYING 10 ITEMS OR 20 ITEMS
             // DOES THAT MEAN WE NEED 20 VARIABLES
 
-            // THIS IS WHY VARIABLES EXIST
+            // THIS IS WHY ARRAYS EXIST
 
-            
+
 
 
 
