@@ -667,8 +667,8 @@ let isRaining = true/*boolean*/
 
             // More difficult array methods 1:39:56
 
-            const fn = () => {}
-            arr.filter(() => {})
+            const fn = () => {}     // these are almost the same thing 1:40:57
+            arr.filter(() => {})    // 
 
             console.log(arr);
 
