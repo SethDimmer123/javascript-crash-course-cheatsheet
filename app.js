@@ -610,7 +610,21 @@ let isRaining = true/*boolean*/
 
             // This is the start of ARRAYS 1:33:42
 
+            // What are Arrays?
+            // Data Structure that can hold multiple data values in one variable.
             
+            // Array example
+
+            // Let's Say we are shopping for some clothes and in are cart we have 5 items
+
+            let item1 = 20
+            let item2 = 30
+            let item3 = 40
+            let item4 = 50
+            let item5 = 100
+
+            // NOW IT DOESNT MAKE MUCH SENSE TO HAVE A SEPERATE VARIABLE
+            // FOR EACH OF THESE ITEMS IN OUR SHOPPING CART
 
 
 
