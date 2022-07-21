@@ -608,6 +608,8 @@ let isRaining = true/*boolean*/
 
 
 
+            // This is the start of ARRAYS 1:33:42
+
             
 
 
