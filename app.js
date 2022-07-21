@@ -640,10 +640,10 @@ let isRaining = true/*boolean*/
             let arr = [20,30,40,50,100]
 
             // First element of array:
-            // console.log(arr[0])
+            console.log(arr[0])
 
             // Last element of array:
-            // console.log(arr[4])
+            console.log(arr[4])
 
             // console.log(arr[arr.length - 1])
 
@@ -660,12 +660,14 @@ let isRaining = true/*boolean*/
             
             // arr.push(200)
 
+            arr.filter()
+
             // console.log(arr);
 
 
             // More difficult array methods 1:39:56
 
-            
+
 
 
 
