@@ -631,9 +631,13 @@ let isRaining = true/*boolean*/
 
             // THIS IS WHY ARRAYS EXIST
 
-            let arr = [20,30,40,50,100,'',Boolean]
+            let arr = [20,30,40,50,100]
+            
+            // let arr = [20,30,40,50,100,'',Boolean]
 
             // You can put multiple data types in arrays like boolean or strings
+
+
 
 
 
