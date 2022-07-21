@@ -651,7 +651,14 @@ let isRaining = true/*boolean*/
             // let's see how we can actually add elements onto the array
             // So in Javascript how we add elements to the array is by using the .push method
 
-            arr.push
+            // arr.push
+
+            // You need to know this one if you are working with arrays 
+            // using this function is almost a guarantee
+
+            arr.push(200)
+
+            console.log(arr);
 
 
 
