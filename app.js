@@ -583,6 +583,7 @@ let isRaining = true/*boolean*/
 
             // FUNCTIONS SOLUTION 1:29:48
             function convertCelsiusToFahrenheit(celsius) {
+            let fahrenheit = celsius * 1.8 + 32
             return fahrenheit
             }
 
