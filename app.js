@@ -661,14 +661,15 @@ let isRaining = true/*boolean*/
             // arr.push(200)
 
             arr.filter()
-            arr.filter(() => {})
 
             // console.log(arr);
 
 
             // More difficult array methods 1:39:56
 
+            arr.filter(() => {})
 
+            console.log(arr);
 
 
 
