@@ -643,9 +643,11 @@ let isRaining = true/*boolean*/
             console.log(arr[0])
 
             // Last element of array:
-            console.log(arr[4])
+            // console.log(arr[4])
 
-            
+            console.log(arr[arr.length - 1])
+
+
 
 
 
