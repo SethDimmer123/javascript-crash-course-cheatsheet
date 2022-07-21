@@ -667,6 +667,7 @@ let isRaining = true/*boolean*/
 
             // More difficult array methods 1:39:56
 
+            const fn = () => {}
             arr.filter(() => {})
 
             console.log(arr);
