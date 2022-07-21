@@ -637,6 +637,8 @@ let isRaining = true/*boolean*/
 
             // You can put multiple data types in arrays like boolean or strings
 
+            
+
 
 
 
