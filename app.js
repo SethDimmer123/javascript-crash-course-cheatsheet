@@ -597,16 +597,16 @@ let isRaining = true/*boolean*/
             // return celsius * 1.8 + 32
             // }
 
-            const convertCelsiusToFahrenheit = (celsius) => {
-                return celsius * 1.8 + 32
-            }
+            // const convertCelsiusToFahrenheit = (celsius) => {
+                // return celsius * 1.8 + 32
+            // }
 
-            console.log(convertCelsiusToFahrenheit(0))
+            // console.log(convertCelsiusToFahrenheit(0))
 
             // THESE ARE BOTH WAYS OF DEFINING FUNCTIONS
             // THIS IS THE END OF THE FUNCTIONS SECTION OF THE CRASH COURSE
 
-            
+
 
 
 
