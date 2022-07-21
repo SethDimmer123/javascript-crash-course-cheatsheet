@@ -645,6 +645,8 @@ let isRaining = true/*boolean*/
             // Last element of array:
             console.log(arr[4])
 
+            
+
 
 
 
