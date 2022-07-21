@@ -662,6 +662,9 @@ let isRaining = true/*boolean*/
 
             // console.log(arr);
 
+
+            // More difficult array methods 1:39:56
+
             
 
 
