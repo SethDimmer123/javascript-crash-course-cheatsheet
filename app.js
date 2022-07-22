@@ -679,7 +679,8 @@ let isRaining = true/*boolean*/
                 // console.log(element)
             // })
 
-            //Something very important to understand about the filter method on arrays
+            //Something very important to understand about the 
+            // filter method on arrays
             // IS IT RETURNS A NEW ARRAY.
 
             // [20,30,40,50,100]
