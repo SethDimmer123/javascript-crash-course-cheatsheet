@@ -699,12 +699,13 @@ let isRaining = true/*boolean*/
                 // if the element we are currently on is less than 
                 // 50 only then do we want it to return true.
                 return true;
+                // console.log('3')
                 }
             })
 
             console.log(newArr)
 
-            
+
 
 
 
