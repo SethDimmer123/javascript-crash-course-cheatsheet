@@ -658,11 +658,11 @@ let isRaining = true/*boolean*/
 
             // Add element onto end of array: which in this case is "push"
             
-            // arr.push(200)
+            arr.push(200)
 
-            arr.filter()
+            // arr.filter()
 
-            // console.log(arr);
+            console.log(arr);
 
 
             // More difficult array methods 1:39:56
@@ -671,6 +671,10 @@ let isRaining = true/*boolean*/
             arr.filter(() => {})    // 
 
             console.log(arr);
+
+            
+
+
 
 
 
