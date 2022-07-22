@@ -673,7 +673,7 @@ let isRaining = true/*boolean*/
             // console.log(arr);
 
 
-            let arr = [20,30,40,50,100]
+            // let arr = [20,30,40,50,100]
 
             // arr.filter((element) => {
                 // console.log(element)
@@ -683,12 +683,16 @@ let isRaining = true/*boolean*/
             // IS IT RETURNS A NEW ARRAY.
 
             // [20,30,40,50,100]
-            let newArr = arr.filter((element) => { 
-                console.log(element)
-                return true;
-            })
+            // let newArr = arr.filter((element) => { 
+                // console.log(element)
+                // return true;
+            // })
 
-            console.log(newArr)
+            // console.log(newArr)
+
+            let arr = [20,30,40,50,100]
+
+            
 
 
 
