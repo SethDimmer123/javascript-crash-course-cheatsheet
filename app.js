@@ -679,7 +679,10 @@ let isRaining = true/*boolean*/
                 console.log(element)
             })
 
-            let newArr = arr.filter((element) => {
+            //Something very important to understand about the filter method on arrays
+            // IS IT RETURNS A NEW ARRAY.
+
+            let newArr = arr.filter((element) => { 
                 console.log(element)
             })
 
