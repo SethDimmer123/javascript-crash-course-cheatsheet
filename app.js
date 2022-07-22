@@ -672,7 +672,8 @@ let isRaining = true/*boolean*/
 
             console.log(arr);
 
-            
+
+            arr.filter((element) => {})
 
 
 
