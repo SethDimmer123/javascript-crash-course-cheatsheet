@@ -675,9 +675,9 @@ let isRaining = true/*boolean*/
 
             let arr = [20,30,40,50,100]
 
-            arr.filter((element) => {
-                console.log(element)
-            })
+            // arr.filter((element) => {
+                // console.log(element)
+            // })
 
             //Something very important to understand about the filter method on arrays
             // IS IT RETURNS A NEW ARRAY.
@@ -685,6 +685,8 @@ let isRaining = true/*boolean*/
             let newArr = arr.filter((element) => { 
                 console.log(element)
             })
+
+            console.log(newArr)
 
 
 
