@@ -693,6 +693,7 @@ let isRaining = true/*boolean*/
 
             let arr = [20,30,40,50,100]
 
+            // [20, 30, 40, ]
             let newArr = arr.filter((element) => {
                 console.log(element)
                 if(element < 50) {
