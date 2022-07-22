@@ -684,6 +684,7 @@ let isRaining = true/*boolean*/
 
             let newArr = arr.filter((element) => { 
                 console.log(element)
+                return true;
             })
 
             console.log(newArr)
