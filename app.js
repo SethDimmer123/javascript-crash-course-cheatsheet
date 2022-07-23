@@ -694,7 +694,7 @@ let isRaining = true/*boolean*/
             let arr = [20,30,40,50,100]
 
             // [20, 30, 40]
-            let newArr = arr.filter((element) => {
+            let newArr = arr.filter((element) => {      //1:47:16
                 // console.log(element) //We remove the console log because it is not doing anything
                    return element < 50 
                 // if the element we are currently on is less than 
@@ -702,6 +702,9 @@ let isRaining = true/*boolean*/
                 // return true;
                 // console.log('3')
                 })
+                // EVERY VALUE LESS THAN 50 IS PRINTING OUT ON THE ARRAY
+                // AND VALUE GREATER THAN OR EQUAL TO 50 ARE STILL GETTING FILTERED 
+                // OUT OF OUR ARRAY
 
             console.log(newArr)
 
