@@ -743,6 +743,8 @@ let isRaining = true/*boolean*/
 
             console.log(newArr)
 
+             
+
 
 
 
