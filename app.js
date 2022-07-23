@@ -691,29 +691,42 @@ let isRaining = true/*boolean*/
 
             // console.log(newArr)
 
-            let arr = [20,30,40,50,100]
+            // let arr = [20,30,40,50,100]
 
             // [20, 30, 40]
-            let newArr = arr.filter((element) => {      //1:47:16
+            // let newArr = arr.filter((element) => {      //1:47:16
                 // console.log(element) //We remove the console log because it is not doing anything
-                   return element < 50 
+                //    return element < 50 
                 // if the element we are currently on is less than 
                 // 50 only then do we want it to return true.
                 // return true;
                 // console.log('3')
-                })
+                // })
                 // EVERY VALUE LESS THAN 50 IS PRINTING OUT ON THE ARRAY
                 // AND VALUE GREATER THAN OR EQUAL TO 50 ARE STILL GETTING FILTERED 
                 // OUT OF OUR ARRAY
 
-            console.log(newArr)
+            // console.log(newArr)
 
             // Since the element is less than 50 we can simplify
             // the process by getting rid of the return true statement 
             // and replace it with the "if" statement 
             // (Look at line 699)
 
-            
+            let arr = [20, 30, 40, 50, 100]
+
+            //[20, 30, 40]
+
+            let newArr = arr.filter(element =>{
+                return element <50
+            })
+
+            console.log(newArr)
+
+            // We can remove the curly brackets since
+            // since there is only 1 line of code
+
+
 
 
 
