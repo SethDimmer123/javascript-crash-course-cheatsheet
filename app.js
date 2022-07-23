@@ -724,7 +724,9 @@ let isRaining = true/*boolean*/
             console.log(newArr)
 
             // We can remove the curly brackets since
-            // since there is only 1 line of code
+            // Since there is only 1 line of code 
+            // which is the return statement
+            // as well as
 
 
 
