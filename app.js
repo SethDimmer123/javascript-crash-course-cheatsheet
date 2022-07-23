@@ -713,15 +713,16 @@ let isRaining = true/*boolean*/
             // and replace it with the "if" statement 
             // (Look at line 699)
 
-            let arr = [20, 30, 40, 50, 100]
+            // This is the old way 
+
+            // let arr = [20, 30, 40, 50, 100]
 
             //[20, 30, 40]
+            // let newArr = arr.filter(element =>{
+                // return element <50
+            // })
 
-            let newArr = arr.filter(element =>{
-                return element <50
-            })
-
-            console.log(newArr)
+            // console.log(newArr)
 
             // We can remove the curly brackets
             // and the return statement
@@ -731,6 +732,16 @@ let isRaining = true/*boolean*/
             // if it wasnt returning something
             // then we would not be returning
             // something 1:48:15
+
+
+            // This is the new way of doing the old way
+            // but it is the same thing
+
+            let arr = [20, 30, 40, 50, 100]
+            //[20, 30, 40]
+            let newArr = arr.filter(element => element < 50)
+
+            console.log(newArr)
 
 
 
