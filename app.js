@@ -731,7 +731,6 @@ let isRaining = true/*boolean*/
             // if it wasnt returning something
             // then we would not be returning
             // something
-            // 
 
 
 
