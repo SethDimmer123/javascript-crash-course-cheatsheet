@@ -683,7 +683,7 @@ let isRaining = true/*boolean*/
             // filter method on arrays
             // IS IT RETURNS A NEW ARRAY.
 
-            // [20,30,40,50,100]
+            [20,30,40,50,100]
             // let newArr = arr.filter((element) => { 
                 // console.log(element)
                 // return true;
@@ -693,18 +693,22 @@ let isRaining = true/*boolean*/
 
             let arr = [20,30,40,50,100]
 
-            // [20, 30, 40, ]
+            // [20, 30, 40]
             let newArr = arr.filter((element) => {
-                console.log(element)
-                if(element < 50) {
+                // console.log(element) //We remove the console log because it is not doing anything
+                   return element < 50 
                 // if the element we are currently on is less than 
                 // 50 only then do we want it to return true.
-                return true;
+                // return true;
                 // console.log('3')
-                }
-            })
+                })
 
             console.log(newArr)
+
+            // Since the element is less than 50 we can simplify
+            // the process by getting rid of the return true statement 
+            // and replace it with the "if" statement 
+            // (Look at line 699)
 
 
 
