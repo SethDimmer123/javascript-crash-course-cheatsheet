@@ -743,6 +743,10 @@ let isRaining = true/*boolean*/
 
             console.log(newArr)
 
+            // We are returning true if the element is
+            // is less than 50 otherwise
+            // we are returning false
+
              
 
 
