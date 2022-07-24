@@ -753,6 +753,10 @@ let isRaining = true/*boolean*/
 
             console.log(newArr)
 
+            // if we only wanted to buy the expensive
+            // items then we just do >= 50 (greater than
+            // or equal to 50)
+
 
 
              
