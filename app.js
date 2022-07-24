@@ -764,9 +764,9 @@ let isRaining = true/*boolean*/
              * Filter out all the 'FAIL' elements in an array
              * 
              * @examples
-             * ['A+' , 'A' , 'FAIL'] => ['A+' , 'A']
-             * ['FAIL' , 'FAIL' , 'B'] => ['B']
-             * ['FAIL'] => []
+             * ['A+' , 'A' , 'FAIL'] => ['A+' , 'A']   // EXAMPLE 1
+             * ['FAIL' , 'FAIL' , 'B'] => ['B']  // EXAMPLE 2
+             * ['FAIL'] => []   // EXAMPLE 3
              */
 
             let grades = ['A+' , 'A' , 'FAIL']
