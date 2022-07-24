@@ -757,8 +757,15 @@ let isRaining = true/*boolean*/
             // items then we just do >= 50 (greater than
             // or equal to 50) 1:48:16
 
+            // ARRAY FILTER PROBLEM 1:48:41
 
-            
+            /**
+             * Filter out all the 'FAIL' elements in an array
+             * 
+             * @examples
+             * ['A+' , 'A' , 'FAIL'] => ['A+' , 'A']
+             * ['FAIL' , 'FAIL' , 'B'] => ['B']
+             */
 
 
 
