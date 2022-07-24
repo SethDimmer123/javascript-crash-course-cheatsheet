@@ -747,15 +747,19 @@ let isRaining = true/*boolean*/
             // is less than 50 otherwise
             // we are returning false
 
-            let arr = [20, 30, 40, 50, 100]
+            // let arr = [20, 30, 40, 50, 100]
 
-            let newArr = arr.filter(element => element >= 50)
+            // let newArr = arr.filter(element => element >= 50)
 
-            console.log(newArr)
+            // console.log(newArr)
 
             // if we only wanted to buy the expensive
             // items then we just do >= 50 (greater than
             // or equal to 50) 1:48:16
+
+
+            
+
 
 
 
