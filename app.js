@@ -755,7 +755,7 @@ let isRaining = true/*boolean*/
 
             // if we only wanted to buy the expensive
             // items then we just do >= 50 (greater than
-            // or equal to 50)
+            // or equal to 50) 1:48:16
 
 
 
