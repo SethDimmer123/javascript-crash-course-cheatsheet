@@ -737,15 +737,23 @@ let isRaining = true/*boolean*/
             // This is the new way of doing the old way
             // but it is the same thing
 
-            let arr = [20, 30, 40, 50, 100]
+            // let arr = [20, 30, 40, 50, 100]
             //[20, 30, 40]
-            let newArr = arr.filter(element => element < 50)
+            // let newArr = arr.filter(element => element < 50)
 
-            console.log(newArr)
+            // console.log(newArr)
 
             // We are returning true if the element is
             // is less than 50 otherwise
             // we are returning false
+
+            let arr = [20, 30, 40, 50, 100]
+
+            let newArr = arr.filter(element => element >= 50)
+
+            console.log(newArr)
+
+
 
              
 
