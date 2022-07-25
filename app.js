@@ -769,18 +769,18 @@ let isRaining = true/*boolean*/
              * ['FAIL'] => []   // EXAMPLE 3
              */
 
-            let grades = ['A+' , 'A' , 'FAIL']
+            // let grades = ['A+' , 'A' , 'FAIL']
 
             //  ARRAY FILTER SOLUTION
 
-            let goodGrades = grades.filter((element) => {
-                console.log(element)
-                if(element !== 'FAIL') {
-                    return true;
-                }
-            })
+            // let goodGrades = grades.filter((element) => {
+                // console.log(element)
+                // if(element !== 'FAIL') {
+                    // return true;
+                // }
+            // })
 
-            console.log(goodGrades)
+            // console.log(goodGrades)
 
             // (The simpler way) in order to get it 
             // on one line of code
