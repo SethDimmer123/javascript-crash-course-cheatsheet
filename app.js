@@ -837,7 +837,7 @@ let isRaining = true/*boolean*/
                          * The 2nd element of the array is 1
                          * The 3rd element of the array is 2
                          * 
-                         * In order to access each element of this array
+                         * In order to access each element of this array.
                          * 
                          */
 
