@@ -817,7 +817,7 @@ let isRaining = true/*boolean*/
                         // We are going to LOOP over EVERY SINGLE ELEMENT
                        // IN THIS ARRAY.    (1:52:37)
 
-                        // How else are similar?
+                        // How else are they similar?
 
                         // We are going to create a for loop
 
@@ -828,6 +828,18 @@ let isRaining = true/*boolean*/
                         }
 
                         // This is exactly the same as how we loop through a string
+
+                        /**We are looping over every single index 
+                         * 
+                         * There are 3 elements of the array ['A+' , 'A' , 'FAIL']
+                         * 
+                         * The 1st element of the array is 0
+                         * The 2nd element of the array is 1
+                         * The 3rd element of the array is 2
+                         * 
+                         * In order to access each element of this array
+                         * 
+                         */
 
 
 
