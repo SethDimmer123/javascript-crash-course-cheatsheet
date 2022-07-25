@@ -798,6 +798,42 @@ let isRaining = true/*boolean*/
             // We are going to LOOP over EVERY SINGLE ELEMENT
             // IN THIS ARRAY.
 
+            /**The indexes of arrays are very similar to 'STRINGS'
+             * They both start from 0
+             * They both end at the length -1
+             * 
+             * The length is also very similar 'str'.length
+             * If we access a string.length it is going to give you
+             * every single character in the string.
+             * 
+             * If we have an array ['s' , 't' , 'r'] .length
+             * 
+             * this means it is going to give your 3 as well
+             * so arrays and strings are very similar
+             * 
+             */
+
+
+                        // We are going to LOOP over EVERY SINGLE ELEMENT
+                       // IN THIS ARRAY.    (1:52:37)
+
+                        // How else are similar?
+
+                        // We are going to create a for loop
+
+                        for(let i = 0; i < grades.length; ++i) {
+                            console.log(i)
+                        }
+
+                        // This is exactly the same as how we loop through a string
+
+
+
+
+
+
+            
+
 
 
              
