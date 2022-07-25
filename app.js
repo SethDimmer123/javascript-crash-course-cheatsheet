@@ -792,7 +792,7 @@ let isRaining = true/*boolean*/
             // console.log(goodGrades)
 
             
-            // Let's just keep an simple grades Array
+            // Let's just keep a simple grades Array
             let grades = ['A+' , 'A' , 'FAIL']
 
 
