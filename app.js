@@ -845,7 +845,16 @@ let isRaining = true/*boolean*/
 
                          for(let i = 0; i < grades.length; ++i) {
                             console.log(grades[i])
-                        }
+                         }
+
+
+                        //  ARRAY FILTER QUESTIONAIRE WITH OUT ARRAY FILTER METHOD 1:53:52
+                         
+                        
+                        /**
+                          * Filter out all the 'FAIL' elements in an array
+                          * without using the Array.filter method
+                          */
 
 
 
