@@ -850,11 +850,19 @@ let isRaining = true/*boolean*/
 
                         //  ARRAY FILTER QUESTIONAIRE WITH OUT ARRAY FILTER METHOD 1:53:52
                          
-                        
-                        /**
-                          * Filter out all the 'FAIL' elements in an array
-                          * without using the Array.filter method
-                          */
+            
+            
+            
+/**
+* Filter out all the 'FAIL' elements in an array
+* without using the Array.filter method
+*/
+
+
+
+
+
+
 
 
 
