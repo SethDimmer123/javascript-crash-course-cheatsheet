@@ -785,11 +785,11 @@ let isRaining = true/*boolean*/
             // (The simpler way) in order to get it 
             // on one line of code
 
-            let grades = {'A+' , 'A' , 'FAIL'}
+            // let grades = {'A+' , 'A' , 'FAIL'}
 
-            let goodGrades = grades.filter(element => element !== 'FAIL')
+            // let goodGrades = grades.filter(element => element !== 'FAIL')
 
-            console.log(goodGrades)
+            // console.log(goodGrades)
 
 
              
