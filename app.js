@@ -829,7 +829,7 @@ let isRaining = true/*boolean*/
 
                         // This is exactly the same as how we loop through a string
 
-                        /**We are looping over every single index 
+                        /** We are looping over every single index 
                          * 
                          * There are 3 elements of the array ['A+' , 'A' , 'FAIL']
                          * 
