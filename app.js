@@ -792,8 +792,11 @@ let isRaining = true/*boolean*/
             // console.log(goodGrades)
 
             
-            // Let's just keep a simple grades Array
+            // Let's just keep a simple grades Array 
             let grades = ['A+' , 'A' , 'FAIL']
+
+            // We are going to LOOP over EVERY SINGLE ELEMENT
+            // IN THIS ARRAY.
 
 
 
