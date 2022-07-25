@@ -821,11 +821,11 @@ let isRaining = true/*boolean*/
 
                         // We are going to create a for loop
 
-                        let grades = ['A+' , 'A' , 'FAIL']
+                        // let grades = ['A+' , 'A' , 'FAIL']
 
-                        for(let i = 0; i < grades.length; ++i) {
-                            console.log(i)
-                        }
+                        // for(let i = 0; i < grades.length; ++i) {
+                            // console.log(i)
+                        // }
 
                         // This is exactly the same as how we loop through a string
 
@@ -840,6 +840,12 @@ let isRaining = true/*boolean*/
                          * In order to access each element of this array.
                          * 
                          */
+
+                         let grades = ['A+' , 'A' , 'FAIL']
+
+                         for(let i = 0; i < grades.length; ++i) {
+                            console.log(grades[i])
+                        }
 
 
 
