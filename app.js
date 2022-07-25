@@ -793,7 +793,7 @@ let isRaining = true/*boolean*/
 
             
             // Let's just keep a simple grades Array 
-            let grades = ['A+' , 'A' , 'FAIL']
+            // let grades = ['A+' , 'A' , 'FAIL']
 
             // We are going to LOOP over EVERY SINGLE ELEMENT
             // IN THIS ARRAY.
@@ -821,12 +821,13 @@ let isRaining = true/*boolean*/
 
                         // We are going to create a for loop
 
+                        let grades = ['A+' , 'A' , 'FAIL']
+
                         for(let i = 0; i < grades.length; ++i) {
                             console.log(i)
                         }
 
                         // This is exactly the same as how we loop through a string
-
 
 
 
