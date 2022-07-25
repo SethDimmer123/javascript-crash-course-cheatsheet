@@ -841,11 +841,11 @@ let isRaining = true/*boolean*/
                          * 
                          */
 
-                         let grades = ['A+' , 'A' , 'FAIL']
+                        //  let grades = ['A+' , 'A' , 'FAIL']
 
-                         for(let i = 0; i < grades.length; ++i) {
-                            console.log(grades[i])
-                         }
+                        //  for(let i = 0; i < grades.length; ++i) {
+                            // console.log(grades[i])
+                        //  }
 
 
                         //  ARRAY FILTER QUESTIONAIRE WITH OUT ARRAY FILTER METHOD 1:53:52
