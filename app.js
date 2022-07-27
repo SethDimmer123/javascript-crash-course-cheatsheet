@@ -856,9 +856,18 @@ let isRaining = true/*boolean*/
             
             
 /**
-* Filter out all the 'FAIL' elements in an array
-* without using the Array.filter method (1:53:32)
-*/
+ * Filter out all the 'FAIL' elements in an array
+ * without using the Array.filter method
+ * 
+ * @examples
+ * ['A+', 'A', 'FAIL'] => ['A+' , 'A']
+ * ['FAIL', 'FAIL', 'B'] => ['B']
+ * ['FAIL'] =>[]
+ */
+
+
+
+
 
 
 
