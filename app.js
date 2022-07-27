@@ -855,8 +855,28 @@ let isRaining = true/*boolean*/
             
 /**
 * Filter out all the 'FAIL' elements in an array
-* without using the Array.filter method
+* without using the Array.filter method (1:53:32)
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
