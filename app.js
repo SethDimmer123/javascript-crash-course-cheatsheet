@@ -850,7 +850,7 @@ let isRaining = true/*boolean*/
 
                         
                         
-//  ARRAY FILTER QUESTIONAIRE WITH OUT ARRAY FILTER METHOD 1:53:52
+//  ARRAY FILTER QUESTIONAIRE WITHOUT ARRAY FILTER METHOD 1:53:52
                          
             
             
@@ -871,9 +871,11 @@ let goodGrades = []
 
 for(let i = 0; i < grades.length; ++i) {
     if (grades[i] !== 'FAIL') {
-        goodGrades.push
+        goodGrades.push(grades[i]);
     }
 }
+
+console.log(goodGrades);
 
 
 
