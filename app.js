@@ -865,7 +865,15 @@ let isRaining = true/*boolean*/
  * ['FAIL'] =>[]
  */
 
-let grades
+let grades = ['A+', 'A', 'FAIL']
+
+let goodGrades = []
+
+for(let i = 0; i < grades.length; ++i) {
+    if (grades[i] !== 'FAIL') {
+        goodGrades.push
+    }
+}
 
 
 
