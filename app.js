@@ -865,7 +865,7 @@ let isRaining = true/*boolean*/
  * ['FAIL'] =>[]
  */
 
-
+let
 
 
 
