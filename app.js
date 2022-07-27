@@ -867,11 +867,23 @@ let isRaining = true/*boolean*/
 
 let grades = ['A+', 'A', 'FAIL']
 
-let goodGrades = []
+// Create a new empty array called 'goodGrades'
 
 for(let i = 0; i < grades.length; ++i) {
-    if (grades[i] !== 'FAIL');
+    // add the current element onto 'goodGrades' only if
+    // the current element is not equal to 'FAIL'
+
+    console.log(grades[i]);
 }
+
+// console log 'goodGrades'
+
+
+//  ARRAY FILTER QUESTIONAIRE WITHOUT ARRAY FILTER METHOD SOLUTION 1:54:57
+
+
+
+
 
 
 
