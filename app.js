@@ -881,7 +881,7 @@ for(let i = 0; i < grades.length; ++i) {
 
 //  ARRAY FILTER QUESTIONAIRE WITHOUT ARRAY FILTER METHOD SOLUTION 1:54:57
 
-
+// stopped at 1:55:23
 
 
 
