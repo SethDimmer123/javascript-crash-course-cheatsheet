@@ -872,13 +872,16 @@ let goodGrades =[]
 
 for(let i = 0; i < grades.length; ++i) {
     if(grades[i] !== 'FAIL') {
-
+        goodGrades.push(grades[i])
     }
-    // if the current elementwe are on is not equal to fail
+    // if the current element we are on is not equal to fail only then we want to add the current element onto good grades.
+   
     // add the current element onto 'goodGrades' only if
     // the current element is not equal to 'FAIL'
 
-    console.log(grades[i]);
+    
+
+    // console.log(grades[i]);
 }
 
 // console log 'goodGrades'
