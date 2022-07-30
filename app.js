@@ -926,6 +926,17 @@ console.log(newArray)
 
 
 
+// ANOTHER QUICK EXERCISE(1:58:38)
+
+/** Turn each element in an array of dollars into cents
+ * 
+ * @examples
+ * [1, 5, 10, 3] => [100, 500 1000, 300]
+ * [0, 10, 20] => [0, 1000, 2000]
+ */
+
+let dollars = [1, 5, 10, 3];
+
 
 
 
