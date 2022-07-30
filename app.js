@@ -871,6 +871,10 @@ let grades = ['A+', 'A', 'FAIL']
 let goodGrades =[]
 
 for(let i = 0; i < grades.length; ++i) {
+    if(grades[i] !== 'FAIL') {
+
+    }
+    // if the current elementwe are on is not equal to fail
     // add the current element onto 'goodGrades' only if
     // the current element is not equal to 'FAIL'
 
