@@ -889,7 +889,7 @@ let goodGrades =[]
 
 // ARR.MAP
 
-let
+let arr =[1,4,9,16]
 
 
 
