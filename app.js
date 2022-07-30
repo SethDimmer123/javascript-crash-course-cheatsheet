@@ -896,6 +896,19 @@ let goodGrades =[]
 // })
 
 
+// let arr =[1,4,9,16]
+
+// let newArray = arr.map((element) =>{
+    // console.log(element)
+    // return undefined;
+// })
+
+// console.log(newArray)
+
+
+
+// reducing the above array into 1 line of code
+
 let arr =[1,4,9,16]
 
 let newArray = arr.map((element) =>{
@@ -905,7 +918,6 @@ let newArray = arr.map((element) =>{
 
 console.log(newArray)
 
-// reducing the above array into 1 line of code
 
 
 
