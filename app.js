@@ -911,12 +911,19 @@ let goodGrades =[]
 
 let arr =[1,4,9,16]
 
-let newArray = arr.map((element) =>{
-    console.log(element)
+let newArray = arr.map(element =>{
+    // console.log(element)
     return undefined;
 })
 
 console.log(newArray)
+
+// 1. We removed the () because there is only 1 variable
+// 2. we don't need the console log inside the array line(915)
+// 3.since the {} only has 1 line of code and we are returning
+// in that 1 line of code we can remove the RETURN STATEMENT
+// AND THE CURLY BRACKETS
+// 4.
 
 
 
