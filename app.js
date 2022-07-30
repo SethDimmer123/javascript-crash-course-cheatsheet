@@ -857,7 +857,7 @@ let isRaining = true/*boolean*/
             
 /**
  * Filter out all the 'FAIL' elements in an array
- * without using the Array.filter method
+ * WITHOUT using the Array.filter method
  * 
  * @examples
  * ['A+', 'A', 'FAIL'] => ['A+' , 'A']
@@ -878,11 +878,9 @@ for(let i = 0; i < grades.length; ++i) {
    
     // add the current element onto 'goodGrades' only if
     // the current element is not equal to 'FAIL'
-
-    
-
     // console.log(grades[i]);
 }
+console.log(goodGrades)
 
 // console log 'goodGrades'
 
