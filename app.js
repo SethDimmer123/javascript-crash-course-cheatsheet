@@ -909,14 +909,14 @@ let goodGrades =[]
 
 // reducing the above array into 1 line of code.
 
-let arr =[1,4,9,16]
+// let arr =[1,4,9,16]
 
-let newArray = arr.map(element => undefined
+// let newArray = arr.map(element => undefined
     // console.log(element)
     // return undefined;
-)
+// )
 
-console.log(newArray)
+// console.log(newArray)
 
 // 1. We removed the () because there is only 1 variable
 // 2. we don't need the console log inside the array line(915)
@@ -936,6 +936,12 @@ console.log(newArray)
  */
 
 let dollars = [1, 5, 10, 3];
+
+// do the map method the LONG WAY and the SHORT WAY.
+
+
+
+
 
 
 
