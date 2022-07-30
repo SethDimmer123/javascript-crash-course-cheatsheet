@@ -907,7 +907,7 @@ let goodGrades =[]
 
 
 
-// reducing the above array into 1 line of code
+// reducing the above array into 1 line of code.
 
 let arr =[1,4,9,16]
 
