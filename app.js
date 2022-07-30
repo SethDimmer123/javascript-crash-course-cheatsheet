@@ -905,6 +905,9 @@ let newArray = arr.map((element) =>{
 
 console.log(newArray)
 
+// reducing the above array into 1 line of code
+
+
 
 
 
