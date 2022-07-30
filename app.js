@@ -940,6 +940,12 @@ let dollars = [1, 5, 10, 3];
 // do the map method the LONG WAY and the SHORT WAY.
 
 
+// THIS IS THE LONG WAY
+
+let cents = dollars.map(element => {
+    console.log(element)
+    // next we want to turn every single element we are currently on into cents
+})
 
 
 
