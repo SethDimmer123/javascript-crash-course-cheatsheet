@@ -868,6 +868,7 @@ let isRaining = true/*boolean*/
 let grades = ['A+', 'A', 'FAIL']
 
 // Create a new empty array called 'goodGrades'
+let goodGrades =[]
 
 for(let i = 0; i < grades.length; ++i) {
     // add the current element onto 'goodGrades' only if
@@ -881,7 +882,7 @@ for(let i = 0; i < grades.length; ++i) {
 
 //  ARRAY FILTER QUESTIONAIRE WITHOUT ARRAY FILTER METHOD SOLUTION 1:54:57
 
-// stopped at 1:55:23
+
 
 
 
