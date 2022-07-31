@@ -945,8 +945,10 @@ let dollars = [1, 5, 10, 3];
 let cents = dollars.map(element => {
     console.log(element)
     // next we want to turn every single element we are currently on into cents.
-    
+
 })
+
+// stopped at 2:00:07
 
 
 
